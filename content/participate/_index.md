@@ -1,0 +1,27 @@
++++
+title = "Participate"
+description = "museum-digital is a community project. Of course, we always welcome volunteers who are ready to help out!"
+
+[extra]
+keywords = "Museums, Participation, Volunteering, Community"
+html_id = "participate"
++++
+
+## Becoming a part of museum-digital
+
+Helping museum-digital is possible in a multitude of ways. Direct participation is mainly reserved for museums, but anybody can help greatly by providing meaningful information and comments.
+
+----
+
+## ... as an Institution
+
+If your institution wants to join museum-digital, you only need a short description, a photo, and the usual contact information of the museum. The museum will then be entered into the appropriate instance of museum-digital and a user account for the museum will be set up. Our tools have shown to be sufficiently intuitive for half an hour of an introduction (via phone) to be sufficient for publishing an object.
+
+Regional museum associations often offer day-long seminars in which working with museum-digital is discussed in more detail. These events usually feature hands-on exercises. It may be fruitful to consult your regional museum association or the administrator of your region of museum-digital.
+
+----
+
+## ...alone or with a group
+
+You can help museums greatly by providing information and working with the museums. At the bottom of almost all object pages, there is a link "Do you know more ...?". By clicking on this line, you can directly provide e-mail feedback on the given object to the related museum. You may however also offer help to a museum in your area of expertise.
+

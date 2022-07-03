@@ -1,0 +1,26 @@
++++
+title = "Terminology work"
+description = "At museum-digital we use controlled vocabularies, to enrich the users' experience. Here we describe, how they are handled."
+
+[extra]
+keywords = "Terminology, Museums, Controlled Vocabularies, Tagging"
+html_id = "terminology"
++++
+
+## Controlled Vocabularies at museum-digital
+
+Controlled vocabularies are a central issue to museum-digital. Sorted into four catagories (Persons and Institutions, Geographical Places, Times, and Keywords), terms are enriched with definitions and links to external controlled vocabularies and services (Wikipedia, GND, ULAN, RKD, MBL, LAGIS, geonames, TGN, AAT, LCSH, ...). At the same time, they are categorized hierarchically. This provides for the possibility to return objects linked to subordinate terms to searches for a given superordinate term. A search for "vehicle" thus returns any object linked to "car" as well.
+
+----
+
+## How are the Vocabularies Controlled?
+
+The curation of controlled vocabularies at museum-digital takes place in a centralized manner. All museums of all instances of a given primary language work together to create a common database of controlled terms. Since curating controlled vocabularies is time consuming, we try to reduce the participating museums' workload in this regard as much as possible. Besides, a centralized curation of controlled vocabularies leads to more uniform results.
+
+To ease the curation, we have developed a tool, "nodac", which automatizes much of the enrichment work and offers a simple interface for positioning terms hierarchically. With this tool, norm data editors, can also use batch editing functionalities for enhancing the controlled vocabularies.
+
+The curation of controlled vocabularies is thus a joint effort of the participating museums, direct volunteering, and support by a number of state governments, led by a small team of "norm data editors".
+
+----
+
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/tag/controlled-vocabularies/feed/", html_url="https://blog.museum-digital.org/tag/controlled-vocabularies/", title="News") }}

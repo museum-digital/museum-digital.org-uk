@@ -1,0 +1,3 @@
+[submodule "themes/museum-digital-theme-zola"]
+	path = themes/museum-digital-theme-zola
+	url = https://gitea.armuli.eu/museum-digital/museum-digital-theme-zola.git
