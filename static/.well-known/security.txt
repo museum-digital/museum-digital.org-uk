@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@museum-digital.de
+Expires: 2022-12-31T23:00:00.000Z
+Encryption: https://en.about.museum-digital.org/security.museum-digital.de.asc
+Preferred-Languages: en,de,id
+OpenBugBounty: https://openbugbounty.org/bugbounty/JREnslin/
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEaR4j6p23Ky7jk940MrAuf01ZpeIFAmK6/LoACgkQMrAuf01Z
+peJ1txAAnpv3f99XKTEKyFkp7pdTX+RtgoTZMxle0IE2G4LcG557b4mE0mySElAE
+45zAz+ey5f66fDrK5bnMIW4PwRZ53AwlKwBP1VslI3GtIxlaJKYlnmf5/82OBp6i
+v/kJMnv1jqcY5uHQbiG4v6XuIfs58urxOO2edXwGjPEsPO0DEKa5zk1+SDfUuz08
+UrVos1eI2aAbwD6wbIZVIf1cIwP26xWkmfpcclHWy2iRar9YgSqPJL+J9o2oMaC0
+Q+7YnJC92w9BLnlWFmP9CU1qHgFpnbbQG7JgTrp9CCQKyhXmO3M58FP+8bpfSdfm
+is1EPHU+MzGu7iYmiHLi/trKR1Kps1+OHGQL+r2oBq/DN7puapcFAX3bhm8keov3
+0OCbARLKMAL9BR5j8OIHHl6ChhUvo1lt4MTWENCos8IiFs+oNW/V5pEHgqx0gHXc
+QjQQOKUqnmlitV+eJUKI/4RfmJdz/g7APrEXWOV1gOz6I5ATcPB9qAFpVOULTeVJ
+FJitNuvlWf1hOZzMyjQJ1HtI8hsZI9UhYOfSkFA8tSvQUh+UlAgrHHzK+fvcCtGx
+wa8ZEIWqrZQ4Z14AjjFUP7XIgOmtyjBZ9DGDyPgcwthXOJ/NmLr6q4s/g0lxZDmF
+9ZblORCiWjC/PTBt+Yv7S69fc52Y5uNSgH6guUGIKaJn0yidxtk=
+=YVPb
+-----END PGP SIGNATURE-----

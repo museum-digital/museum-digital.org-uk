@@ -33,4 +33,5 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 site_name = "museum-digital"
+site_description = "museum-digital is an initiative for enabling museums to collaboratively publish and manage their data."
 default_og_image = "data/img/logo/mdlogo-code-1024px.png"
