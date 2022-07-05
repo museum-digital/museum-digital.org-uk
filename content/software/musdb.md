@@ -108,6 +108,8 @@ But _easy_ and _intuitive_ also means that power users can work efficiently in w
 
 Musdb is based on PHP8 and MySQL. A number of PHP and JavaScript libraries are used, a list of which can be found in the handbook.
 
+----
+
 ### Resources
 
 {{ museumdigital_linktiles_list_start() }}

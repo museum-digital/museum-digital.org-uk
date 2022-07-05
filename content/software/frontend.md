@@ -99,6 +99,8 @@ As much as possible, the "frontend" provides information in open standards as we
 
 The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is used for interactive features and visualizations. A list of the used libraries can be found here. We use git for version control.
 
+----
+
 ## Resources
 
 {{ museumdigital_linktiles_list_start() }}
