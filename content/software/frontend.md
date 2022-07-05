@@ -16,7 +16,9 @@ The "frontend" is thus the first application, that was developed at museum-digit
 
 To offer a comprehensive glimpse at the museums and their objects, a variety of additional information has been made presentable since. On the one hand, museums can now add information on their collections, object groups, exhibitions, and events. On the other, a number of options for linking and visualizing information have been added.
 
-## Screenshots
+----
+
+### Screenshots
 
 {{ museumdigital_preview_list_start() }}
 
@@ -82,26 +84,27 @@ To offer a comprehensive glimpse at the museums and their objects, a variety of 
 
 {{ museumdigital_preview_list_end() }}
 
+----
 
-## Technical Information
+### Technical Information
 
-### Focus - Design Principles
+#### Focus - Design Principles
 
 "The "frontend" of museum-digital is primarily designed to always offer a clear focus on whichever information is central to a given page or section. This allows for easy understanding. A lot of additional options exist for power users - from visualizations to a command line menu embedded into the website. These are however "hidden" in sidebars or only accessible through keyboard shortcuts, so that they don't irritate first-time users.
 
-### API(s)
+#### API(s)
 
 Publishing and making things accessible doesn't only mean making it possible to view something. It also means enabling people to use data to realize their own ideas. Accordingly, all information that is published using the "frontend" of museum-digital is also accessible in a machine-readable way via our JSON API.
 
 As much as possible, the "frontend" provides information in open standards as well: object information can be accessed in [LIDO](http://network.icom.museum/cidoc/working-groups/lido/what-is-lido/), information about museums can be downloaded as electronic business cards ([vCard](https://de.wikipedia.org/wiki/VCard)), and calendar information such as exhibitions can be integrated with calendar tools using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) standard.
 
-### Development
+#### Development
 
 The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is used for interactive features and visualizations. A list of the used libraries can be found here. We use git for version control.
 
 ----
 
-## Resources
+### Resources
 
 {{ museumdigital_linktiles_list_start() }}
 

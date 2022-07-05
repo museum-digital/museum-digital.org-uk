@@ -20,6 +20,8 @@ Central to the development of musdb are:
 - working with musdb should be as easy and intuitive as possible
 - Tips and warnings are given to not just enter data, but to create high quality data
 
+----
+
 ### Screenshots
 
 {{ museumdigital_preview_list_start() }}
@@ -90,6 +92,8 @@ Central to the development of musdb are:
     ) %}Museum directors and regional administrators set detailed permissions for what users can edit or view.{% end %}
 
 {{ museumdigital_preview_list_end() }}
+
+----
 
 ### Technical Information
 

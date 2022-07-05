@@ -16,6 +16,8 @@ After setting up the [main frontend](/software/frontend) for museum-digital, que
 
 The Themator is structured around topics, which can be super- or subordinate to other topics and which can be associated with objects (both those entered only in the Themator and those published in any of the main portals of museum-digital), literature entries, and more. This focus on topics provides for a broad range of possible uses in the field of digital storytelling, especially where it relates to museum objects. On the one hand, the Themator can be used for creating digital exhibitions. On the other, it has been used to create learning materials (e.g. for teaching in German minority schools in Hungary). This, combined with the need to be able to embed objects from the different instances in the same topic, led us to design the Themator as a tool completely independent from the main instances.
 
+----
+
 ### Screenshots
 
 {{ museumdigital_preview_list_start() }}

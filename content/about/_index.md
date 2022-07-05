@@ -16,3 +16,19 @@ Museum-digital is an initiative of museums. The initiative was founded in 2009. 
 In mid 2009, the AG Digitization of the State Museum Association gathered and founded museum-digital. It was May 2009, and the recently founded working group soon spread to research how long it takes to digitize an object. The data thus gathered provided the fodder for an initial writing of the frontend for museum-digital.
 
 museum-digital is always open for people to join. The development takes place as it is needed. Where ever there may be museums that join hands to use museum-digital, be it for publishing, inventory or both, they can do so. If needed, a new instance will be created or we can consider other ways of cooperation. Since we develop alongside the always changing needs of the community, there is no clear-cut roadmap for museum-digital in the time ahead.
+
+----
+
+{{ museumdigital_linktiles_list_start() }}
+
+{% museumdigital_linktiles_tile(link="https://phplist.museum-digital.info/lists/",
+    image="/data/img/icons/more.png",
+    image_alt="Logo") %}Newsletter (German){% end %}
+
+{{ museumdigital_linktiles_list_end() }}
+
+----
+
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/feed/",
+    html_url="https://blog.museum-digital.org/",
+    title="News") }}

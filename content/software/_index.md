@@ -37,10 +37,6 @@ Early on, when developing the main frontend and musdb, we decided to use control
     image="/data/img/logos/mdterm-128px.png",
     image_alt="Logo") %}md:term & nodac{% end %}
 
-{% museumdigital_linktiles_tile(link="/software/api_based",
-    image="/data/img/icons/more.svg",
-    image_alt="Logo") %}Third party tools{% end %}
-
 {{ museumdigital_linktiles_list_end() }}
 
 ----
