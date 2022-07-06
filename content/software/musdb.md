@@ -10,11 +10,6 @@ html_id = "musdb"
 og_image = "/data/img/logo-musdb/musdbLogoBrown.svg"
 +++
 
-<!--
-banner_image = "/data/img/banners/NLMHMD_Office-of-Computer-and-Communications-Systems-staff-configuring-Grateful-Med.jpg"
-banner_image_alt = "Public domain / US gov't work. National Library of Medicine. 'Office of Computer and Communications Systems staff configuring Grateful Med'"
--->
-
 ## musdb
 
 Musdb is museum-digital's tool for indexing and creating inventories. Originally developed for recording objects to be published only, it has since developed into a full-featured inventory and museum management solution.

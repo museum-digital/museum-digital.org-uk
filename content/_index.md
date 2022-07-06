@@ -5,7 +5,7 @@ template = "startpage.html"
 
 [extra]
 keywords = "Museums, Digitization, Community, Research"
-banner_image = banner_image = "stijn-te-strake-1564653-unsplash_optimized"
+banner_image = "/data/img/stijn-te-strake-1564653-unsplash_optimized.jpg"
 html_id = "home"
 +++
 

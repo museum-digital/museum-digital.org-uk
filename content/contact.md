@@ -4,7 +4,7 @@ description = "Get in touch with museum-digital."
 
 [extra]
 keywords = "Contact, museum-digital"
-banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p128.jpg"
+banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p128_cut.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 128 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "contact"
 +++

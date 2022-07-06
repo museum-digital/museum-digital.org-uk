@@ -4,7 +4,7 @@ description = "The Themator is museum-digital's solution for digital story-telli
 
 [extra]
 keywords = "Software, Story Telling, Topics, Stories, Narrative, Exhibitions"
-banner_image = "/data/img/banners/RetrofuturismPostersNASA/trappist.jpg"
+banner_image = "/data/img/banners/RetrofuturismPostersNASA/trappist_cut.jpg"
 banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "themator"
 og_image = "/data/img/logos/themator-512.png"

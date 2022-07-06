@@ -4,7 +4,7 @@ description = "This page features a list of publications about and based on muse
 
 [extra]
 keywords = "museum-digital, Research, Academy, Publications"
-banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p518.jpg"
+banner_image = "/data/img/banners/british_library_hyroglyph.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 518 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "publications"
 +++
