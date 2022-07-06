@@ -3,7 +3,8 @@ title = "Privacy Policy"
 description = "Privacy policy of museum-digital.org"
 
 [extra]
-keywords = "Pprivacy Policy, Privacy, museum-digital.org"
+keywords = "Privacy Policy, Privacy, museum-digital.org"
+banner_image = "/data/img/banners/22156997508_750db8aa8a_o.jpg"
 html_id = "privacy"
 +++
 

@@ -4,6 +4,8 @@ description = "museum-digital is a project for the digitization of museum data. 
 
 [extra]
 keywords = "Museum-digital, Museums, Digitization, Mission Statement, Aims"
+banner_image = "/data/img/banners/RetrofuturismPostersNASA/ceres.jpg"
+banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "mission"
 +++
 

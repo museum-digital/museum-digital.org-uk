@@ -4,6 +4,7 @@ description = "museum-digital is a community project. Of course, we always welco
 
 [extra]
 keywords = "Museums, Participation, Volunteering, Community"
+banner_image = "/data/img/banners/albani.jpg"
 html_id = "participate"
 +++
 

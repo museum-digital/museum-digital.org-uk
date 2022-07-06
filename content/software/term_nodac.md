@@ -4,6 +4,8 @@ description = "At museum-digital we build two tools for managing and displaying 
 
 [extra]
 keywords = "Software, Controlled Vocabularies, Subject Headings"
+banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p235.jpg"
+banner_image_alt = "Image from page 235 of 'Bell telephone magazine' (1922). Internet Archive Book Images, Ident.: belltelephone7273mag00amerrich."
 html_id = "termNodac"
 og_image = "/data/img/logos/mdterm-512px.png"
 +++

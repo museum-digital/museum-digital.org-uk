@@ -4,6 +4,8 @@ description = "At museum-digital we use controlled vocabularies, to enrich the u
 
 [extra]
 keywords = "Terminology, Museums, Controlled Vocabularies, Tagging"
+banner_image = "/data/img/banners/Banner_Heiligbrodt_Collections_Insects_Unlocked.jpg"
+banner_image_alt = "Public domain image by Alex Wild for the Insects Unlocked project. / Ludolph Heiligbrodt collection / The insect collection of 19th century Texas naturalist Ludolph Heiligbrodt is housed at the University of Texas at Austin."
 html_id = "terminology"
 +++
 

@@ -4,6 +4,8 @@ description = "Who or what is museum-digital? We are a project to further the di
 
 [extra]
 keywords = "Museums, Digitization, Community, Research"
+banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p440.jpg"
+banner_image_alt = "Internet Archive Book Images. Image from page 440 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "about"
 +++
 

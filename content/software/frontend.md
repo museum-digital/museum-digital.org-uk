@@ -4,6 +4,8 @@ description = "Most of the work museum-digital does focuses on bringing museums 
 
 [extra]
 keywords = "Software, Museums, Museum Objects, Museum Software, Exhibitions, Web Portal"
+banner_image = "/data/img/banners/RetrofuturismPostersNASA/earth.jpg"
+banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "frontend"
 og_image = "/data/img/logo/mdlogo-code-1024px.png"
 +++
@@ -96,7 +98,7 @@ To offer a comprehensive glimpse at the museums and their objects, a variety of 
 
 Publishing and making things accessible doesn't only mean making it possible to view something. It also means enabling people to use data to realize their own ideas. Accordingly, all information that is published using the "frontend" of museum-digital is also accessible in a machine-readable way via our JSON API.
 
-As much as possible, the "frontend" provides information in open standards as well: object information can be accessed in [LIDO](http://network.icom.museum/cidoc/working-groups/lido/what-is-lido/), information about museums can be downloaded as electronic business cards ([vCard](https://de.wikipedia.org/wiki/VCard)), and calendar information such as exhibitions can be integrated with calendar tools using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) standard.
+As much as possible, the "frontend" provides information in open standards as well: object information can be accessed in [LIDO](http://www.lido-schema.org/), information about museums can be downloaded as electronic business cards ([vCard](https://de.wikipedia.org/wiki/VCard)), and calendar information such as exhibitions can be integrated with calendar tools using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) standard.
 
 #### Development
 

@@ -4,6 +4,8 @@ description = "museum-digital is represented on different, regional portals. Her
 
 [extra]
 keywords = "Museum-digital, Portals, Museum Objects, Access"
+banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p226.jpg"
+banner_image_alt = "Internet Archive Book Images. Image from page 226 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "portals"
 +++
 

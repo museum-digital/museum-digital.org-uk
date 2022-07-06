@@ -4,6 +4,8 @@ description = "Imprint of museum-digital.org"
 
 [extra]
 keywords = "Imprint, museum-digital, museum-digital.org"
+banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p299.jpg"
+banner_image_alt = "Internet Archive Book Images. Image from page 299 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "impressum"
 +++
 

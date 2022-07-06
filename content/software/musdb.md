@@ -4,9 +4,16 @@ description = "musdb is museum-digital's tool for collection management. It has 
 
 [extra]
 keywords = "musdb, Museum Management, Inventory, Software, Collection Management System"
+banner_image = "/data/img/banners/usda_nrcs_montana_snow_survey65.jpg"
+banner_image_alt = "Public domain / US gov't work. USDA NRCS Montana / Snow Survey65.tif / Man working on computer, analyzing data, 1977."
 html_id = "musdb"
 og_image = "/data/img/logo-musdb/musdbLogoBrown.svg"
 +++
+
+<!--
+banner_image = "/data/img/banners/NLMHMD_Office-of-Computer-and-Communications-Systems-staff-configuring-Grateful-Med.jpg"
+banner_image_alt = "Public domain / US gov't work. National Library of Medicine. 'Office of Computer and Communications Systems staff configuring Grateful Med'"
+-->
 
 ## musdb
 

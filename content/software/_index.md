@@ -4,6 +4,8 @@ description = "At museum-digital, we have developed a set of software solutions 
 
 [extra]
 keywords = "Software, Museums, Museum Objects, Museum Software, museum-digital"
+banner_image = "/data/img/banners/RetrofuturismPostersNASA/grand_tour.jpg"
+banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "software"
 +++
 
