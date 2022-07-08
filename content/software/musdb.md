@@ -116,6 +116,12 @@ Musdb is based on PHP8 and MySQL. A number of PHP and JavaScript libraries are u
 
 ----
 
+{% counter_section_left(api = "md_musdb_system", name = "languages") %}
+musdb is build for multi-lingual use and has been translated to a number of languages. Of course, we are always looking forward to help in translating the musdb (just like all other tools at museum-digital) to new languages. A description of how our dedicated translation tool can be used for doing so is [available on the blog (German)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
+{% end %}
+
+----
+
 ### Resources
 
 {{ museumdigital_linktiles_list_start() }}

@@ -14,6 +14,8 @@ $feeds = [
     'https://museum-digital.jrenslin.de/piwik/index.php?date=' . date("Y-m-d", strtotime("-1 month")) . ',' . date("Y-m-d") . '&expanded=1&filter_limit=100&format=JSON&format_metrics=1&idSite=1&method=API.get&module=API&period=day&token_auth=anonymous' => 'md_users_stats',
     'https://term.museum-digital.de/?output=json' => 'md_term_stats',
     'https://term.museum-digital.de/editStats.php?output=json' => 'md_term_stats_edits',
+    'https://global.museum-digital.org/system' => 'md_frontend_system',
+    'https://demo.museum-digital.org/musdb/apis/system.php' => 'md_musdb_system',
 ];
 
 require __DIR__ . '/../themes/museum-digital-theme-zola/scripts/getJsonAPIs.php';

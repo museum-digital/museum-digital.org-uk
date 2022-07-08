@@ -106,6 +106,12 @@ The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is us
 
 ----
 
+{% counter_section_left(api = "md_frontend_system", name = "languages") %}
+The frontend is build for multi-lingual use and has been translated to a number of languages. Of course, we are always looking forward to help in translating the frontend (just like all other tools at museum-digital) to new languages. A description of how our dedicated translation tool can be used for doing so is [available on the blog (German)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
+{% end %}
+
+----
+
 ### Resources
 
 {{ museumdigital_linktiles_list_start() }}
