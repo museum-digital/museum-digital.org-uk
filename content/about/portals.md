@@ -279,7 +279,7 @@ Themator in Hungarian
 
 ## md:term: The controlled vocabularies of museum-digital made accessible
 
-Around 2010, we started to use controlled vocabularies to facilitate the common tagging and interlinking of digitized objects. For a long time, these vocabularies were not accessible for any outside viewers. Since they may be a useful resource to some, we have since developed [md:term](/software/term_nodac) as a public and hopefully easily accessible portal for our (and some other) controlled vocabularies.
+Around 2010, we started to use controlled vocabularies to facilitate the common tagging and interlinking of digitized objects. For a long time, these vocabularies were not accessible for any outside viewers. Since they may be a useful resource to some, we have since developed [md:term](/software/term-nodac) as a public and hopefully easily accessible portal for our (and some other) controlled vocabularies.
 
 {{ museumdigital_linktiles_list_start() }}
 

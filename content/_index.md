@@ -6,6 +6,25 @@ template = "startpage.html"
 [extra]
 keywords = "Museums, Digitization, Community, Research"
 banner_image = "/data/img/stijn-te-strake-1564653-unsplash_optimized.jpg"
+page_banner = [
+    [
+        "/data/img/stijn-te-strake-1564653-unsplash_optimized.jpg",
+        "",
+        "museum-digital:global",
+        "museum-digital helps museums bring their collections online. All published objects can be found at museum-digital:global.",
+        [
+            "https://global.museum-digital.org/search.php",
+            "sv",
+            "Browse the collections"
+        ]
+    ],
+    [
+        "/data/img/banners/cat.jpg",
+        "",
+        "Digital Storytelling",
+        "Using the <a href='https://en.about.museum-digital.org/software/themator/'>Themator</a>, museums can publish their narratives digitally both in a more traditional 'portal' form as well as a scrollytelling format",
+    ]
+]
 html_id = "home"
 +++
 
