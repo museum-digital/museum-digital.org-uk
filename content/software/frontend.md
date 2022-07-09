@@ -100,6 +100,49 @@ Publishing and making things accessible doesn't only mean making it possible to 
 
 As much as possible, the "frontend" provides information in open standards as well: object information can be accessed in [LIDO](http://www.lido-schema.org/), information about museums can be downloaded as electronic business cards ([vCard](https://de.wikipedia.org/wiki/VCard)), and calendar information such as exhibitions can be integrated with calendar tools using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) standard.
 
+{{ highlighted_tile_section(headline = "Open Standards", tiles = [
+    [
+        'LIDO',
+        'for object metadata',
+        "Based on [CIDOC-CRM](https://www.cidoc-crm.org/), LIDO offers a standardized XML format for exchanging object metadata for museums. Many of the central concepts museum-digital is built on originate from LIDO (such as the event structure for more precisely describing location and dating).",
+    ],
+    [
+        'iCalendar',
+        'for calendar entries',
+        "Calendar entries for events and exhibitions can be downloaded and subscribed to using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) format and the adjacent WebCal standard. iCalendar is a well-established format that can - among others - be used for importing events to one's mobile calendar.",
+    ],
+    [
+        'vCard',
+        "for institutions' contact information",
+        "What iCalendar is for calendar entries, vCard is for contact information: A very simple and widely adopted standard that can be used for exchanging contact information between practically all of the popular address book managers. museum-digital's frontend implements the interoperable sharing of museums and collections' contact information using vCard.",
+    ],
+    [
+        'oEmbed',
+        'for referencing object, series, and institution pages',
+        'oEmbed is a standard for describing the preferred way to embed a page in another. Using oEmbed, object, institution and series pages can be referenced in - e.g. - WordPress blog posts in a breeze.',
+    ],
+    [
+        'TEI',
+        'for transcriptions',
+        'TEI (Text Encoding Initiative) is a standard for encoding text in a maschine-readable way. At museum-digital, it is natively supported for transcriptions and can be used as an alternative output format for object information focusing on transcriptions and the sending / receiving of letters and similar objects.',
+    ],
+    [
+        'IIIF',
+        'for images',
+        '[IIIF](https://iiif.io/) offers a standardized API for referencing images or sections of these. In the standard setup, images are gathered to represent a thing (e.g. a museum object), but these collections can in turn be compiled into superordinate collections. As IIIF requires server-side editing of the images before they are sent to the user, it is only available for locally hosted images. For these however, IIIF version 2.1 is fully implemented.',
+    ],
+    [
+        'RSS',
+        'for staying up-to-date',
+        "Where objects are listed, museum-digital's frontend generates an RSS feed. These feeds can be subscribed to using a feed reader.",
+    ],
+    [
+        'JSON-LD',
+        'for making information legible to Search Engines',
+        "Google and other search engines can use more detailed [structured data](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data) for generating previews about some commonly appearing types of data - such as events or FAQs. Whereever suitable, the required structured data is provided by the frontend.",
+    ]
+]) }}
+
 #### Development
 
 The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is used for interactive features and visualizations. A list of the used libraries can be found here. We use git for version control.
@@ -108,6 +151,12 @@ The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is us
 
 {% counter_section_left(api = "md_frontend_system", name = "languages") %}
 The frontend is build for multi-lingual use and has been translated to a number of languages. Of course, we are always looking forward to help in translating the frontend (just like all other tools at museum-digital) to new languages. A description of how our dedicated translation tool can be used for doing so is [available on the blog (German)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
+{% end %}
+
+----
+
+{% counter_section_right_plain_number(api = "md_global_stats", selector = "museums", name = "institutions") %}
+Many museums come together to use museum-digital as a publication platform - and thus come to present their objects using the frontend.
 {% end %}
 
 ----
