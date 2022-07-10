@@ -25,4 +25,29 @@ The curation of controlled vocabularies is thus a joint effort of the participat
 
 ----
 
+### Current Progress
+
+"Cleaning" and ordering the controlled vocabularies is an ever-ongoing effort. To get a clearer view of how far we've progressed in terms of actually controlling the vocabularies, we work with an approval system.
+
+{{ chart_md_vocabulary_progress() }}
+
+----
+
+{{ museumdigital_linktiles_list_start() }}
+
+{% museumdigital_linktiles_tile(link="/software/term-nodac",
+    image="/data/img/icons/more.png",
+    image_alt="Logo") %}Page on md:term and nodac (German){% end %}
+
+{% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Einleitung/Entstehung.html",
+    image="/data/img/logos-ext/mdBook.svg",
+    image_alt="Logo") %}Handbook: Our History (German){% end %}
+
+{{ museumdigital_linktiles_list_end() }}
+
+----
+
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/tag/controlled-vocabularies/feed/", html_url="https://blog.museum-digital.org/tag/controlled-vocabularies/", title="News") }}
+
+{{ embed_chartjs() }}
+<script src="/js/dashboard-controlled-vocabs-status.js" type="text/javascript" async></script>

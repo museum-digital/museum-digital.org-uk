@@ -24,8 +24,12 @@ museum-digital is always open for people to join. The development takes place as
 {{ museumdigital_linktiles_list_start() }}
 
 {% museumdigital_linktiles_tile(link="https://phplist.museum-digital.info/lists/",
-    image="/data/img/icons/more.png",
+    image="/data/img/logos-ext/phplist.svg",
     image_alt="Logo") %}Newsletter (German){% end %}
+
+{% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Einleitung/Entstehung.html",
+    image="/data/img/logos-ext/mdBook.svg",
+    image_alt="Logo") %}Handbook: Our History (German){% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 

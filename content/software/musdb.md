@@ -127,11 +127,11 @@ musdb is build for multi-lingual use and has been translated to a number of lang
 {{ museumdigital_linktiles_list_start() }}
 
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/musdb/",
-    image="/data/img/icons/more.svg",
+    image="/data/img/logos-ext/mdBook.svg",
     image_alt="") %}Documentation (German){% end %}
 
 {% museumdigital_linktiles_tile(link="https://www.youtube.com/playlist?list=PLFbmcALPcmvLtbv38OpjEkHFteP-qhmDY",
-    image="/data/img/icons/more.svg",
+    image="/data/img/logos-ext/YouTube_social_red_square_2017.svg",
     image_alt="") %}Videos on YouTube{% end %}
 
 {% museumdigital_linktiles_tile(link="https://demo.museum-digital.org/musdb/swagger/",
