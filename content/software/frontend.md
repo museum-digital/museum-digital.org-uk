@@ -4,8 +4,8 @@ description = "Most of the work museum-digital does focuses on bringing museums 
 
 [extra]
 keywords = "Software, Museums, Museum Objects, Museum Software, Exhibitions, Web Portal"
-banner_image = "/data/img/banners/RetrofuturismPostersNASA/earth.jpg"
-banner_image_alt = "Courtesy NASA/JPL-Caltech."
+banner_image = "/data/img/banners/RooseveltRoadViaduct_1920_InternetArchive_p280.jpg"
+banner_image_alt = 'Image from page 280 of "The practical aspect of the slope deflection method and its application to the design of the Roosevelt Road Viaduct" (1920); Grodsky, Morris; Contributing Library: Paul V. Galvin Library, Illinois Institute of Technology; Digitizing Sponsor: CARLI: Consortium of Academic and Research Libraries in Illinois'
 html_id = "frontend"
 og_image = "/data/img/logo/mdlogo-code-1024px.png"
 faq = [
