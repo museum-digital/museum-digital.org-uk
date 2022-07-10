@@ -34,9 +34,20 @@ museum-digital is an initiative, it is a software suite, and it is a platform. I
 
 {{ museumdigital_map_global() }}
 
-## Collaboration and Mutual Aid
+### Collaboration and Mutual Aid
 
 Every museum has its possibilities and aims. At museum-digital, they work together. In contrast to other portals, museum-digital offers tools both for publishing and indexing object information. All museums of the instances using a common primary language are using a shared pool of controlled and enriched terms. Working on a centralized pool of controlled vocabularies saves each museum a lot of time and helps to visualize links between information from the different museums. It is thus a central part of successfully publishing online.
 
 The community is inclusive and open: every museum can participate, as the greatest treasures are often found at far-off places. Being open for museums of all kinds and sizes is only possible by putting flexibility and simplicity first. These, together with giving each museum and user full control over their data are the main principles of museum-digital.
 
+----
+
+{% lr_section_image_left(image = "/data/img/logo/mdlogo-code-256px.png", image_alt = "Logo") %}
+#### museum-digital:global
+
+museums publish and manage their collection data primarily in regional instances of museum-digital. Published data is however also aggregated in larger instances, such as [museum-digital:global](https://global.museum-digital.org/), that allow searching in all the collections published on museum-digital.
+
+<form action="https://global.museum-digital.org/search.php">
+    <input type="search" name="sv" placeholder="Browse the collections">
+</form>
+{% end %}
