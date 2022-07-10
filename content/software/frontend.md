@@ -8,6 +8,12 @@ banner_image = "/data/img/banners/RetrofuturismPostersNASA/earth.jpg"
 banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "frontend"
 og_image = "/data/img/logo/mdlogo-code-1024px.png"
+faq = [
+    [
+        "How can a museum publish its objects on museum-digital?",
+        "Imports or [musdb](/software/musdb)"
+    ]
+]
 +++
 
 ## The Main Frontend of museum-digital
@@ -158,6 +164,10 @@ The frontend is build for multi-lingual use and has been translated to a number 
 {% counter_section_right_plain_number(api = "md_global_stats", selector = "museums", name = "institutions") %}
 Many museums come together to use museum-digital as a publication platform - and thus come to present their objects using the frontend.
 {% end %}
+
+----
+
+{{ build_faq_list(title = "FAQ") }}
 
 ----
 
