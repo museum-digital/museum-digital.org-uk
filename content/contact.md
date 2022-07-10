@@ -15,4 +15,4 @@ html_id = "contact"
 
 e-Mail: [info@museum-digital.de](mailto:info@museum-digital.de)
 
-
+For discussion, we have now set up a chat room using the matrix network. You can find it at [#museum-digital:matrix.org](https://matrix.to/#/#museum-digital:matrix.org)
