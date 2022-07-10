@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="291.04166mm" height="291.04166mm" viewBox="0 0 291.04166 291.04166" version="1.1" id="svg8" inkscape:version="1.2 (dc2aedaf03, 2022-05-15)" sodipodi:docname="md-logo-groupit.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title125">Logo for the groupit tool at museum-digital</title>
+  <defs id="defs2"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.1244218" inkscape:cx="505.59319" inkscape:cy="484.24888" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="3840" inkscape:window-height="2076" inkscape:window-x="0" inkscape:window-y="-33" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:showpageshadow="2" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Logo for the groupit tool at museum-digital</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>museum-digital</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Logo</rdf:li>
+            <rdf:li>GroupIt</rdf:li>
+            <rdf:li>Software</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>GroupIt is the tool for synchronizing between different instances of museum-digital.</dc:description>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-5.958333)">
+    <rect style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.51728344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect845" width="288.52438" height="288.52438" x="1.2586417" y="7.2169747" ry="0" rx="10"/>
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 13.526357,281.22614 C 71.7849,85.457276 124.37771,33.127647 124.37771,33.127647" id="path1612" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 58.737897,279.8468 C 100.61507,63.052646 124.3777,33.127647 124.3777,33.127647" id="path1614" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 94.210323,280.80588 C 79.922818,190.12907 124.3777,33.127647 124.3777,33.127647" id="path1616" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 128.23576,281.61816 C 117.47851,107.9274 151.73184,33.106806 151.73184,33.106806" id="path855" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 153.12647,280.58483 C 139.73603,245.42304 151.72899,33.099625 151.72899,33.099625" id="path937" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 178.95365,280.9595 C 168.14438,244.58651 151.73184,33.106806 151.73184,33.106806" id="path939" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 206.61713,281.45916 C 163.02427,271.42355 151.73127,33.105253 151.73127,33.105253" id="path941" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 218.31697,282.52679 C 227.68033,191.64621 151.73458,33.113465 151.73458,33.113465" id="path943" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 211.8498,281.42211 C 219.80068,249.71102 151.72252,33.084757 151.72252,33.084757" id="path945" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 231.97731,281.49148 C 238.69743,233.0348 151.72252,33.084757 151.72252,33.084757" id="path947" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 243.36419,285.01562 C 255.31108,270.91909 151.72252,33.084757 151.72252,33.084757" id="path949" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 263.15123,282.81301 C 300.67195,211.44954 151.73458,33.113465 151.73458,33.113465" id="path951" inkscape:connector-curvature="0"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 252.13769,283.69403 C 265.76461,259.90623 151.73458,33.113465 151.73458,33.113465" id="path953" inkscape:connector-curvature="0"/>
+  </g>
+</svg>

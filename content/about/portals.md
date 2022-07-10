@@ -261,6 +261,26 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 </div>
 
+### Aggregated Instances by Topic
+
+{% lr_section_image_left(image = "/data/img/logos/groupit.svg", image_alt = "Logo") %}
+#### GroupIt
+
+museums record their collection information in the above-listed regional portals. The collection data is then synchronized to aggregated instances using a dedicated synchronization tool, _GroupIt_. The primary aggregated instances are then - obviously - the respective national and worldwide instances. We can however also generate topical collection catalogues based on the synchronization of collections, object groups, or the whole institution.
+{% end %}
+
+<div class="iconList">
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://gedenkstaetten.museum-digital.de/") %}Gedenkstätten{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://turcica.museum-digital.de/") %}Turcica{% end %}
+
+</div>
+
 ## Themator: Topical Portals
 
 The [Themator](/software/themator) is a tool we developed to enable museums and like-minded people to create digital exhibitions and - more generally - to easily engage in digital storytelling. As the Themator was previously largely monolingual, we have set up different instances of it.
