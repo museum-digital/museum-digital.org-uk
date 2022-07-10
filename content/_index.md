@@ -5,10 +5,11 @@ template = "startpage.html"
 
 [extra]
 keywords = "Museums, Digitization, Community, Research"
-banner_image = "/data/img/stijn-te-strake-1564653-unsplash_optimized.jpg"
+banner_image = "/data/img/zalfa-imani-1xp5VxvyKL0-unsplash.jpg"
+banner_image_alt = "Zalfa Imani, December 1, 2020, Unsplash License, https://unsplash.com/photos/1xp5VxvyKL0"
 page_banner = [
     [
-        "/data/img/stijn-te-strake-1564653-unsplash_optimized.jpg",
+        "/data/img/zalfa-imani-1xp5VxvyKL0-unsplash.jpg",
         "",
         "museum-digital:global",
         "museum-digital helps museums bring their collections online. All published objects can be found at museum-digital:global.",
@@ -28,11 +29,15 @@ page_banner = [
 html_id = "home"
 +++
 
-## Enabling Museums to Let the World in - the Way they Want
+## museum-digital
 
 museum-digital is an initiative, it is a software suite, and it is a platform. In January 2009, museum workers from the German state of Saxony-Anhalt gathered at the Kreismuseum Bitterfeld to discuss digitization and agreed to go online together. This was the founding event of museum-digital. Even then it was clear: Going online and becoming visible can only be achieved together. Together, software was developed; together, the museums present themselves and their objects online. What started as a small group in Saxony-Anhalt has now grown into a community that transcends national and language borders.
 
+----
+
 {{ museumdigital_map_global() }}
+
+----
 
 ### Collaboration and Mutual Aid
 
@@ -42,12 +47,24 @@ The community is inclusive and open: every museum can participate, as the greate
 
 ----
 
-{% lr_section_image_left(image = "/data/img/logo/mdlogo-code-256px.png", image_alt = "Logo") %}
-#### museum-digital:global
+### The Fruit of Common Efforts
+
+<br/>
+
+{% lr_section_image_right(image = "/data/img/logo/mdlogo-code-256px.png", image_alt = "Logo") %}
+#### Publishing, from a regional to a global context
 
 museums publish and manage their collection data primarily in regional instances of museum-digital. Published data is however also aggregated in larger instances, such as [museum-digital:global](https://global.museum-digital.org/), that allow searching in all the collections published on museum-digital.
 
 <form action="https://global.museum-digital.org/search.php">
     <input type="search" name="sv" placeholder="Browse the collections">
 </form>
+{% end %}
+
+<br/>
+
+{% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
+#### Taking load off each other's shoulders
+
+For making such a diverse set of objects - from museums from different countries and recorded using different languages - legible and searchable, controlled vocabularies are an essential tool. At museum-digital, we keep centralized vocabularies for different types of entries. If a museum thus has already linked an object to a place, that place is available to all other museums as well. Our controlled vocabularies can be browsed and downloaded at [md:term](https://term.museum-digital.de/).
 {% end %}
