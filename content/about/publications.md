@@ -19,7 +19,6 @@ Besides providing infrastructure, museum-digital's flexibility and non-profit na
 - Enslin, J. (2018). Grasping Historical People’s Relationships: Let the Objects Speak. Uncommon Culture, 7(1/2), 118-125. [http://uncommonculture.org/ojs/index.php/UC/article/view/9241](http://uncommonculture.org/ojs/index.php/UC/article/view/9241)
 - Rohde-Enslin, S. (2015). PuQI – A Smart Way to Create Better Data. Uncommon Culture, 6(2), 122-129. [https://uncommonculture.org/ojs/index.php/UC/article/view/6218](https://uncommonculture.org/ojs/index.php/UC/article/view/6218)
 - Kopp-Sievers, S., Scheeder, B., & Wübbenhorst, J. (2015). museum-digital – Ein zivilgesellschaftliches Projekt großer und kleiner Museen (pp. 322–329). [https://doi.org/10.1515/9783110405774-032](https://doi.org/10.1515/9783110405774-032)
-- Rohde-Enslin, S. (2011). museum-digital (pp. 92-95). https://journals.uic.edu/ojs/index.php/UC/article/view/3958/0
 - Rohde-Enslin, S. (2011). museum-digital (pp. 92-95). [https://journals.uic.edu/ojs/index.php/UC/article/view/3958/0](https://journals.uic.edu/ojs/index.php/UC/article/view/3958/0)
 
 
