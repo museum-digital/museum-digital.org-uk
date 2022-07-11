@@ -176,7 +176,7 @@ Many museums come together to use museum-digital as a publication platform - and
 {{ museumdigital_linktiles_list_start() }}
 
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Ausgabe/",
-    image="/data/img/icons/more.svg",
+    image="/data/img/logos-ext/mdBook.svg",
     image_alt="") %}Handbook pages (German){% end %}
 
 {% museumdigital_linktiles_tile(link="https://nat.museum-digital.de/index.php?t=text&st=api",
