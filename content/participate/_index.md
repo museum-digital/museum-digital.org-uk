@@ -22,7 +22,7 @@ Regional museum associations often offer day-long seminars in which working with
 
 ----
 
-## ...alone or with a group
+## ... alone or with a group
 
 You can help museums greatly by providing information and working with the museums. At the bottom of almost all object pages, there is a link "Do you know more ...?". By clicking on this line, you can directly provide e-mail feedback on the given object to the related museum. You may however also offer help to a museum in your area of expertise.
 
