@@ -26,3 +26,18 @@ Regional museum associations often offer day-long seminars in which working with
 
 You can help museums greatly by providing information and working with the museums. At the bottom of almost all object pages, there is a link "Do you know more ...?". By clicking on this line, you can directly provide e-mail feedback on the given object to the related museum. You may however also offer help to a museum in your area of expertise.
 
+<br/>
+
+{% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
+#### Translation
+
+We hope to make museum-digital available and useful to all people. Not all people speak the same language. All kinds of translations in all languages are highly welcome.
+{% end %}
+
+<br/>
+
+{% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
+#### Enriching controlled vocabulary
+
+Another way of participation is to join the normdata editors and collaborate with them in managing, enriching and translating the conrolled vocabularies of museum-digital.
+{% end %}
