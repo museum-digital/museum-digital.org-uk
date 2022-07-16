@@ -43,6 +43,7 @@ faq = [
 - controlled vobularies
 - Export (incl. Excel export)
 - Tabellenbearbeitung / viele wege zur bearbeitung
+- Flexible Suche
 - Automatic quality control
 
 ## musdb

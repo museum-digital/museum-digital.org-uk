@@ -11,8 +11,24 @@ og_image = "/data/img/logo/mdlogo-code-1024px.png"
 faq = [
     [
         "How can a museum publish its objects on museum-digital?",
-        "Imports or [musdb](/software/musdb)"
-    ]
+        "The museum first needs to set up in [musdb](/software/musdb) by the regional administrators responsible for the respective instance of museum-digital. For this, we require a name, an address, a short description of the museum (min. 25 characters), and an image symbolizing the museum. Once the museum has been set up in musdb, objects can be entered and published one by one - or the existing collection data of an institution can be imported in bulk. The institution is only publicly listed once one of its objects has been published."
+    ],
+    [
+        "Are past versions of object pages archived for enabling scientific references?",
+        "Yes. Once a public object page has been updated, a snapshot of its contents are taken and made available using the page archive."
+    ],
+    [
+        "Does the frontend of museum-digital offer persistent URLs?",
+        "We do not automatically assign DOIs, handles, or anything alike to published pages. We however take utmost care, that any URL of a primary page (e.g. an object or museum page) is kept stable and that there are sufficient referals from old URL structures to have no links be lost."
+    ],
+    [
+        "Is the layout of the frontend of museum-digital responsive?",
+        "Yes."
+    ],
+    [
+        "I have a great idea for a new visualization method? Can you implement it?",
+        "If it is really a good and suitable idea, sure. Just send us a mail."
+    ],
 ]
 +++
 
