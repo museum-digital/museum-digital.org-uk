@@ -10,11 +10,40 @@ html_id = "musdb"
 og_image = "/data/img/logo-musdb/musdbLogoBrown.svg"
 faq = [
     [
+        "How much does musdb cost?",
+        "musdb is free of charge and will stay so. Users with the required permissions can add as many additional users as necessary."
+    ],
+    [
+        "What are the system requirements for musdb?",
+        "musdb is fully web-based. Thus only an up-to-date browser is required to use musdb."
+    ],
+    [
+        "Is it possible to use musdb only for collection management without publishing?",
+        "Yes."
+    ],
+    [
+        "Can I import my existing collection data to musdb?",
+        "In principle, yes. Given that the data has been compiled in a structured way, we have thus far always found a way to import the data. Import scripts for common exchange formats such as LIDO and exports from other popular collection management systems exist out of the box (a list can be [found in the handbook](https://de.handbook.museum-digital.info/import/liste-der-importformate.html)) and can be used in cooperation with our technical team or on one's own using musdb's WebDAV interface for import data."
+    ],
+    [
         "Does musdb support two-factor authentication?",
         "Yes. Users can enable two-factor authentication based on hardware tokens (e.g. Yubikeys or Nitrokeys), TOTP (which is e.g. used by Google Authenticator) or by mail."
-    ]
+    ],
+    [
+        "Is there any limit to the number of images that can be uploaded per object?",
+        "No. You may upload as many images (or other media types such as video, audio, PDFs, or 3D representations) as necessary."
+    ],
+    [
+        "Can musdb be used for managing our museum library?",
+        "Yes."
+    ],
 ]
 +++
+
+- controlled vobularies
+- Export (incl. Excel export)
+- Tabellenbearbeitung / viele wege zur bearbeitung
+- Automatic quality control
 
 ## musdb
 
