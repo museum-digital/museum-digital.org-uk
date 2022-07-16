@@ -8,6 +8,12 @@ banner_image = "/data/img/banners/usda_nrcs_montana_snow_survey65.jpg"
 banner_image_alt = "Public domain / US gov't work. USDA NRCS Montana / Snow Survey65.tif / Man working on computer, analyzing data, 1977."
 html_id = "musdb"
 og_image = "/data/img/logo-musdb/musdbLogoBrown.svg"
+faq = [
+    [
+        "Does musdb support two-factor authentication?",
+        "Yes. Users can enable two-factor authentication based on hardware tokens (e.g. Yubikeys or Nitrokeys), TOTP (which is e.g. used by Google Authenticator) or by mail."
+    ]
+]
 +++
 
 ## musdb
@@ -119,6 +125,10 @@ Musdb is based on PHP8 and MySQL. A number of PHP and JavaScript libraries are u
 {% counter_section_left(api = "md_musdb_system", name = "languages") %}
 musdb is build for multi-lingual use and has been translated to a number of languages. Of course, we are always looking forward to help in translating the musdb (just like all other tools at museum-digital) to new languages. A description of how our dedicated translation tool can be used for doing so is [available on the blog (German)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
 {% end %}
+
+----
+
+{{ build_faq_list(title = "FAQ") }}
 
 ----
 
