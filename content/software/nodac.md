@@ -12,6 +12,23 @@ og_image = "/data/img/logos/mdterm-512px.png"
 
 ## Nodac: Manage Controlled Vocabularies
 
+nodac is museum-digital's tool for curating controlled vocabularies. That means
+- labeling,
+- describing,
+- translating,
+- creating hierarchies of concepts and 
+- linking concepts to entries in external repositories like Wikidata, GND, AAT, geonames, ...
+nodac is able to work with multiple polyhierarchical thesauri and follows the SKOS 2 standard.
+
+As the primary management tool behind museum-digital's vocabularies it is essential for nodac to be trainable. It works with
+- blacklists,
+- automatic transfer between different vocabularies,
+- permanent re-writing of one term to another
+
+### Linked open data
+
+From the start, nodac has been written with linked open data in mind. It not only helps curating such links but also enables the automatic retrieval of data recorded at Wikidata, GND, AAT and other sources.
+
 ----
 
 {{ museumdigital_linktiles_list_start() }}
