@@ -12,6 +12,8 @@ og_image = "/data/img/logos/mdterm-512px.png"
 
 ## md:term - Vocabulary Browser
 
+museum-digital uses four kinds of controlled vocabularies. Actors, Places, Time(spans) and Keywords are controlled. These vocabularies are enriched with links to other repositories (like VIAF) and translated in many languages. They can be accessed by a special interface called md:term. Moreover external vocabularies are also available at this place. All entries are available and may be used as reference in skos and json format.
+
 ----
 
 {{ museumdigital_linktiles_list_start() }}
