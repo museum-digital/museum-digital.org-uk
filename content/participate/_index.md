@@ -28,7 +28,7 @@ You can help museums greatly by providing information and working with the museu
 
 <br/>
 
-{% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
+{% lr_section_image_right(image = "/data/img/icons/Language-Icon.svg", image_alt = "Language icon") %}
 #### Translation
 
 We hope to make museum-digital available and useful to all people. Not all people speak the same language. All kinds of translations in all languages are highly welcome.
@@ -39,5 +39,5 @@ We hope to make museum-digital available and useful to all people. Not all peopl
 {% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
 #### Enriching controlled vocabulary
 
-Another way of participation is to join the normdata editors and collaborate with them in managing, enriching and translating the conrolled vocabularies of museum-digital.
+Another way of participation is to join the norm data editors and collaborate with them in managing, enriching and translating the controlled vocabularies of museum-digital.
 {% end %}
