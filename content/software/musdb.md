@@ -45,10 +45,11 @@ faq = [
 - Tabellenbearbeitung / viele wege zur bearbeitung
 - Flexible Suche
 - Automatic quality control
+- Batch editing
 
 ## musdb
 
-Musdb is museum-digital's tool for indexing and creating inventories. Originally developed for recording objects to be published only, it has since developed into a full-featured inventory and museum management solution.
+musdb is museum-digital's tool for indexing and creating inventories. Originally developed for recording objects to be published only, it has since developed into a full-featured inventory and museum management solution.
 
 Central to the development of musdb are:
 

@@ -22,16 +22,12 @@ md:term is the public equivalent of nodac. It provides for public, structured ac
 
 {{ museumdigital_linktiles_list_start() }}
 
-{% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/nodac/index.html",
-    image="/data/img/logos-ext/mdBook.svg",
-    image_alt="Logo") %}Handbook (German) on nodac{% end %}
+{% museumdigital_linktiles_tile(link="/software/nodac",
+    image="/data/img/logos/mdterm-512px",
+    image_alt="Logo") %}nodac{% end %}
 
-{% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/md-term/index.html",
-    image="/data/img/logos-ext/mdBook.svg",
-    image_alt="Logo") %}Handbook (German) on md:term{% end %}
-
-{% museumdigital_linktiles_tile(link="https://term.museum-digital.de/",
-    image="/data/img/logos/mdterm-128px.png",
+{% museumdigital_linktiles_tile(link="/software/term",
+    image="/data/img/logos/mdterm-512px",
     image_alt="Logo") %}md:term{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
