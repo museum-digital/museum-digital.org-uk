@@ -15,11 +15,36 @@ og_image = "/data/img/logos/mdterm-512px.png"
 md:term is a browser for controlled vocabularies. Using it one can navigate through hierarchies of keywords and places, view the description and translations of labels and concepts. Most importantly the controlled vocabularies are made searchable and provided in a machine-readable formats as much as in a human readable way.
 
 ----
+
 ### md:term as a portal
 
 The reference implementation of md:term presents museum-digital's controlled vocabularies for places, actors, tags and time along with some external ones like Hornbostel-Sachs-Systematk or Technikthesaurus. The vocabularies presented in md:term can be downloaded in bulk.
 
 md:term might be used independent of museum-digital as a presentation tool for vocabularies. However, it works best in combination with md:nodac.
+
+----
+
+### Screenshots
+
+{{ museumdigital_preview_list_start() }}
+
+{% museumdigital_preview_tile_figure(
+    image="/data/img/Screenshots/Term/Screenshot_term_place_2.png",
+    image_alt="md:term place page: Hansaviertel"
+    ) %}Besides the always-available links to machine-readable export options, base information and links to norm data repositories, place pages list super- and subordinate places and the place on a map.{% end %}
+
+{% museumdigital_preview_tile_figure(
+    image="/data/img/Screenshots/Term/Screenshot_term_tag.png",
+    image_alt="md:term tag page"
+    ) %}A tag page will position the tag hierarchically, reference other norm data repositories, describe it and offer machine-readable export options. Additionally, objects from museum-digital may be listed.{% end %}
+
+{% museumdigital_preview_tile_figure(
+    image="/data/img/Screenshots/Term/Screenshot_term_downloads.png",
+    image_alt="Download page of md:term"
+    ) %}Full JSON and SKOS / XML dumps of our controlled vocabularies can be downloaded using the download page{% end %}
+
+{{ museumdigital_preview_list_end() }}
+
 ----
 
 {{ museumdigital_linktiles_list_start() }}
