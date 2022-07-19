@@ -78,7 +78,7 @@ To offer a comprehensive glimpse at the museums and their objects, a variety of 
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Multilingual.jpg",
-    image_alt="Multilingualism in the museum-digital frontend."
+    image_alt="Multilinguality in the museum-digital frontend."
     ) %}museum-digital is multilingual, and so, too, can be the displayed entries. The navigation language and the record language can be switched independent of each other.{% end %}
 
 {% museumdigital_preview_tile_figure(

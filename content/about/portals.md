@@ -239,11 +239,11 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://noe.at.museum-digital.org/") %}Niederösterreich{% end %}
+    link="https://noe.at.museum-digital.org/") %}Lower Austria{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://wien.at.museum-digital.org/") %}Wien{% end %}
+    link="https://wien.at.museum-digital.org/") %}Vienna{% end %}
 
 </div>
 
@@ -266,7 +266,7 @@ Museum-digital is composed of different portals. Most of them are regionally str
 {% lr_section_image_left(image = "/data/img/logos/groupit.svg", image_alt = "Logo") %}
 #### GroupIt
 
-museums record their collection information in the above-listed regional portals. The collection data is then synchronized to aggregated instances using a dedicated synchronization tool, _GroupIt_. The primary aggregated instances are then - obviously - the respective national and worldwide instances. We can however also generate topical collection catalogues based on the synchronization of collections, object groups, or the whole institution.
+Museums record their collection information in the above-listed regional portals. The collection data is then synchronized to aggregated instances using a dedicated synchronization tool, _GroupIt_. The primary aggregated instances are then - obviously - the respective national and worldwide instances. We can however also generate topical collection catalogues based on the synchronization of collections, object groups, or the whole institution.
 {% end %}
 
 <div class="iconList">

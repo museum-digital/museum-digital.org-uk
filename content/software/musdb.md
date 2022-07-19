@@ -86,7 +86,7 @@ Central to the development of musdb are:
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/musdb/Screenshot-musdb-Multilingual.jpg",
     image_alt="Multilingual usage of musdb."
-    ) %}Musdb is multilingual and it can handle multilingual inputs.{% end %}
+    ) %}musdb is multilingual and it can handle multilingual inputs.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/musdb/Screenshot-musdb-Navigation.jpg",
