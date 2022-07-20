@@ -19,7 +19,7 @@ faq = [
     ],
     [
         "Does the frontend of museum-digital offer persistent URLs?",
-        "We do not automatically assign DOIs, handles, or anything alike to published pages. We however take utmost care, that any URL of a primary page (e.g. an object or museum page) is kept stable and that there are sufficient referals from old URL structures to have no links be lost."
+        "We do not automatically assign DOIs, handles, or anything alike to published pages. We however take utmost care, that any URL of a primary page (e.g. an object or museum page) is kept stable and that there are sufficient referals from old URL structures to have no links be lost. For our approach to this topic, see Tim Berners-Lee's's [_Cool URIs don't change_](https://www.w3.org/Provider/Style/URI)."
     ],
     [
         "Is the layout of the frontend of museum-digital responsive?",
@@ -156,7 +156,7 @@ As much as possible, the "frontend" provides information in open standards as we
     [
         'RSS',
         'for staying up-to-date',
-        "Where objects are listed, museum-digital's frontend generates an RSS feed. These feeds can be subscribed to using a feed reader.",
+        "Where objects, events, or exhibitions are listed, museum-digital's frontend generates an RSS feed. These feeds can be subscribed to using a feed reader.",
     ],
     [
         'JSON-LD',

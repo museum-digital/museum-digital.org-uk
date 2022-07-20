@@ -20,7 +20,7 @@ md:term is a browser for controlled vocabularies. Using it one can navigate thro
 
 The reference implementation of md:term presents museum-digital's controlled vocabularies for places, actors, tags and time along with some external ones like Hornbostel-Sachs-Systematk or Technikthesaurus. The vocabularies presented in md:term can be downloaded in bulk.
 
-md:term might be used independent of museum-digital as a presentation tool for vocabularies. However, it works best in combination with md:nodac.
+md:term might be used independent of museum-digital as a presentation tool for vocabularies. However, it works best in combination with [nodac](/software/nodac).
 
 ----
 

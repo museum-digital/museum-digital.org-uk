@@ -20,7 +20,7 @@ faq = [
 ]
 +++
 
-## Nodac: Manage Controlled Vocabularies
+## nodac: Manage Controlled Vocabularies
 
 nodac is museum-digital's tool for curating controlled vocabularies. That means labeling, describing, translating, creating hierarchies of concepts and linking concepts to the corresponding entries in external repositories like Wikidata, GND, AAT, geonames, etc.
 
