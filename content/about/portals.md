@@ -83,6 +83,10 @@ Museum-digital is composed of different portals. Most of them are regionally str
     image_alt="Logo",
     link="https://hessen.museum-digital.de/") %}Hessen{% end %}
 
+{% icon_list_entry(image="/data/img/regional-logos/meckpomm.png",
+    image_alt="Logo",
+    link="https://meckpomm.museum-digital.de/") %}Mecklenburg-Vorpommern{% end %}
+
 {% icon_list_entry(image="/data/img/regional-logos/nds.png",
     image_alt="Logo",
     link="https://nds.museum-digital.de/") %}Niedersachsen{% end %}
