@@ -45,6 +45,10 @@ Museum-digital is composed of different portals. Most of them are regionally str
     image_alt="Logo",
     link="https://ch.museum-digital.org/") %}Switzerland{% end %}
 
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://ua.museum-digital.org/") %}Ukraine{% end %}
+
 </div>
 
 ### Regional portals in Germany
@@ -106,6 +110,10 @@ Museum-digital is composed of different portals. Most of them are regionally str
 {% icon_list_entry(image="/data/img/regional-logos/sachsen.png",
     image_alt="Logo",
     link="https://sachsen.museum-digital.de/") %}Sachsen{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/san.png",
+    image_alt="Logo",
+    link="https://st.museum-digital.de/") %}Sachsen-Anhalt{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/sh.png",
     image_alt="Logo",
@@ -204,6 +212,64 @@ Museum-digital is composed of different portals. Most of them are regionally str
 {% icon_list_entry(image="/data/img/regional-logos/hu-ve.png",
     image_alt="Logo",
     link="https://ve.hu.museum-digital.org/") %}Veszprem{% end %}
+
+</div>
+
+### Regional Portals in Ukraine
+
+<div class="iconList">
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://cherkasy.ua.museum-digital.org/") %}Cherkasy Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://chernihiv.ua.museum-digital.org/") %}Chernihiv Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://ivfr.ua.museum-digital.org/") %}Ivano-Frankivsk Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://kyiv.ua.museum-digital.org/") %}Kyiv{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://kyivska.ua.museum-digital.org/") %}Kyiv Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://lviv.ua.museum-digital.org/") %}Lviv Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://odesa.ua.museum-digital.org/") %}Odesa Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://poltova.ua.museum-digital.org/") %}Poltova Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://rivne.ua.museum-digital.org/") %}Rivne Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://sumy.ua.museum-digital.org/") %}Sumy Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://vinnytsia.ua.museum-digital.org/") %}Vinnytsia Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://volyn.ua.museum-digital.org/") %}Volyn Oblast{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://zaporizhzhia.ua.museum-digital.org/") %}Zaporizhzhia Oblast{% end %}
 
 </div>
 
