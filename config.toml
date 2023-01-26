@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://en.about.museum-digital.org"
+base_url = "https://ru.about.museum-digital.org"
 
 theme = "museum-digital-theme-zola"
 
