@@ -1,48 +1,49 @@
 +++
-title = "Frontend/Portal"
-description = "Most of the work museum-digital does focuses on bringing museums online. We do so mainly using our main frontend/portal software."
+title = "Внешний интерфейс/портал"
+description = "Большая часть работы museum-digital направлена на то, чтобы перенести музеи в онлайн. Мы делаем это в основном с помощью нашего основного внешнего интерфейса/портала."
 
 [extra]
-keywords = "Software, Museums, Museum Objects, Museum Software, Exhibitions, Web Portal"
+keywords = "программное обеспечение, музеи, музейные предметы, музейное программное обеспечение, выставки, веб-портал"
 banner_image = "/data/img/banners/RooseveltRoadViaduct_1920_InternetArchive_p280.jpg"
 banner_image_alt = 'Image from page 280 of "The practical aspect of the slope deflection method and its application to the design of the Roosevelt Road Viaduct" (1920); Grodsky, Morris; Contributing Library: Paul V. Galvin Library, Illinois Institute of Technology; Digitizing Sponsor: CARLI: Consortium of Academic and Research Libraries in Illinois'
 html_id = "frontend"
 og_image = "/data/img/logo/mdlogo-code-1024px.png"
 faq = [
     [
-        "How can a museum publish its objects on museum-digital?",
-        "The museum first needs to set up in [musdb](/software/musdb) by the regional administrators responsible for the respective instance of museum-digital. For this, we require a name, an address, a short description of the museum (min. 25 characters), and an image symbolizing the museum. Once the museum has been set up in musdb, objects can be entered and published one by one - or the existing collection data of an institution can be imported in bulk. The institution is only publicly listed once one of its objects has been published."
+        "Как музей может опубликовать свои предметы в museum-digital?",
+        "Сначала музей должен быть создан в [musdb](/software/musdb) региональным администратором, ответственным за соответствующую версию museum-digital. Для этого необходимо предоставить название, адрес, краткое описание музея (не менее 25 символов) и изображение, символизирующее музей. После создания музея в musdb объекты можно вносить и публиковать по одному - или же можно импортировать имеющиеся данные о собрании учреждения в большом количестве. Учреждение становится публичным только после публикации одного из его объектов"
+
     ],
     [
-        "Are past versions of object pages archived for enabling scientific references?",
-        "Yes. Once a public object page has been updated, a snapshot of its contents are taken and made available using the page archive."
+        "Хранятся ли прошлые версии страниц объектов в архиве для получения научных ссылок?",
+        "Да. После обновления страницы общедоступного объекта делается снимок её содержимого, который становится доступным с помощью архива страниц."
     ],
     [
-        "Does the frontend of museum-digital offer persistent URLs?",
-        "We do not automatically assign DOIs, handles, or anything alike to published pages. We however take utmost care, that any URL of a primary page (e.g. an object or museum page) is kept stable and that there are sufficient referals from old URL structures to have no links be lost. For our approach to this topic, see Tim Berners-Lee's's [_Cool URIs don't change_](https://www.w3.org/Provider/Style/URI)."
+        "Предлагает ли фронтенд museum-digital постоянные URL-адреса?",
+        "Мы не присваиваем автоматически DOI, дескрипторы или что-либо подобное опубликованным страницам. Однако мы тщательно следим за тем, чтобы любой URL первичной страницы (например, страницы объекта или музея) оставался стабильным и чтобы было достаточно ссылок из старых структур URL, чтобы ни одна ссылка не была потеряна. Наш подход к этой теме см. в статье Тима Бернерса-Ли [_Cool URIs don't change_] (https://www.w3.org/Provider/Style/URI)."
     ],
     [
-        "Is the layout of the frontend of museum-digital responsive?",
-        "Yes."
+        "Является ли макет фронтенда museum-digital отзывчивым?",
+        "Да."
     ],
     [
-        "I have a great idea for a new visualization method? Can you implement it?",
-        "If it is really a good and suitable idea, sure. Just send us a mail."
+        "У меня есть отличная идея для нового метода визуализации! Вы можете её реализовать?",
+        "Если это действительно хорошая и подходящая идея, конечно. Просто отправьте нам письмо."
     ],
 ]
 +++
 
-## The Main Frontend of museum-digital
+## Основной внешний интерфейс museum-digital
 
-museum-digital was founded to publish museum object information online. That's not possible without the right software.
+museum-digital был основан для публикации информации о музейных предметах онлайн. Это невозможно без соответствующего программного обеспечения.
 
-The "frontend" is thus the first application, that was developed at museum-digital. With it, museums can join together to present themselves and their objects online.
+"Фронтенд" - это первое приложение, которое было разработано в museum-digital. С его помощью музеи могут объединить усилия, чтобы представить себя и свои объекты в интернете.
 
-To offer a comprehensive glimpse at the museums and their objects, a variety of additional information has been made presentable since. On the one hand, museums can now add information on their collections, object groups, exhibitions, and events. On the other, a number of options for linking and visualizing information have been added.
+Для того чтобы дать полное представление о музеях и их объектах, с тех пор появилась разнообразная дополнительная информация. С одной стороны, музеи теперь могут добавлять информацию о своих собраниях, группах предметов, выставках и событиях. С другой стороны, был добавлен ряд возможностей для связывания и визуализации информации.
 
 ----
 
-### Screenshots
+### Скриншоты
 
 {{ museumdigital_preview_list_start() }}
 
@@ -53,90 +54,90 @@ To offer a comprehensive glimpse at the museums and their objects, a variety of 
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-ExtendedSearch.jpg",
-    image_alt="Extended search page in the museum-digital frontend."
-    ) %}Using the extended search settings, users can define exact searches.{% end %}
+    image_alt="Страница расширенного поиска во фронтенде museum-digital."
+    ) %} Используя настройки расширенного поиска, пользователи могут задавать точные поисковые запросы.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-EnrichedSearchPages.jpg",
-    image_alt="Enriched search results in the museum-digital frontend"
-    ) %}Search result pages are enriched based on data from our controlled vocabularies.{% end %}
+    image_alt="Обогащенные результаты поиска во фронтенде museum-digital"
+    ) %}Страницы результатов поиска обогащаются на основе данных из наших контролируемых словарей.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Timeline.jpg",
-    image_alt="A timeline page in museum-digital."
-    ) %}The museum-digital frontend offers a timeline, for viewing search results sorted by their relations to time.{% end %}
+    image_alt="Страница хронологии в museum-digital."
+    ) %}Фронтенд museum-digital предлагает временную шкалу для просмотра результатов поиска, отсортированных по их отношению ко времени.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-oak.jpg",
-    image_alt="Objects on map pages in museum-digital."
-    ) %}Using the "objects on map" pages, users can find interesting objects based on their geographical background.{% end %}
+    image_alt="Объекты на страницах карт в museum-digital."
+    ) %}Используя страницы "объекты на карте", пользователи могут найти интересные объекты, основываясь на своем географическом положении.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Object.jpg",
-    image_alt="An object page."
-    ) %}An object page in the frontend of museum-digital.{% end %}
+    image_alt="Страница объекта."
+    ) %}Страница объекта во фронтенде museum-digital.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Multilingual.jpg",
-    image_alt="Multilinguality in the museum-digital frontend."
-    ) %}museum-digital is multilingual, and so, too, can be the displayed entries. The navigation language and the record language can be switched independent of each other.{% end %}
+    image_alt="Многоязычие во фронтенде museum-digital."
+    ) %}museum-digital является многоязычным, и отображаемые записи тоже могут быть многоязычными. Язык навигации и язык записей можно переключать независимо друг от друга.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-ExhibitionOverview.jpg",
-    image_alt="Exhibition overview page in the museum-digital frontend"
-    ) %}The exhibition overview page in tiles mode.{% end %}
+    image_alt="Страница обзора выставки во фронтенде museum-digital"
+    ) %}Страница обзора выставки в режиме плитки.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Calendar.jpg",
-    image_alt="Calendars are available for exhibitions and events."
-    ) %}Calendars are available for exhibitions and events.{% end %}
+    image_alt="Для выставок и мероприятий имеются календари."
+    ) %}Для выставок и мероприятий имеются календари.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-GraphView.jpg",
-    image_alt="Graph view"
-    ) %}The "graph view" offers users an alternative option for navigating the portal.{% end %}
+    image_alt="В виде графика"
+    ) %}Представление "в виде графика" предлагает пользователям альтернативный вариант навигации по порталу.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Keyboard.jpg",
-    image_alt="Keyboard control of the museum-digital frontend."
-    ) %}Power users can navigate the portal using their keyboard through an emacs-inspired interface.{% end %}
+    image_alt="Клавиатурное управление фронтендом museum-digital."
+    ) %}Опытные пользователи могут перемещаться по порталу с помощью клавиатуры через интерфейс, вдохновленный emacs.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Compare.jpg",
-    image_alt="Comparing obects"
-    ) %}Two objects can be compared with each other.{% end %}
+    image_alt="Сравнение объектов"
+    ) %}Два объекта можно сравнить друг с другом.{% end %}
 
 {{ museumdigital_preview_list_end() }}
 
 ----
 
-### Technical Information
+### Техническая информация
 
-#### Focus - Design Principles
+#### Фокус - Принципы дизайна
 
-"The "frontend" of museum-digital is primarily designed to always offer a clear focus on whichever information is central to a given page or section. This allows for easy understanding. A lot of additional options exist for power users - from visualizations to a command line menu embedded into the website. These are however "hidden" in sidebars or only accessible through keyboard shortcuts, so that they don't irritate first-time users.
+"Фронтенд" museum-digital в первую очередь спроектирован таким образом, чтобы всегда предлагать чёткий акцент на той информации, которая является центральной для данной страницы или раздела. Это позволяет легко понять информацию. Для опытных пользователей существует множество дополнительных возможностей - от визуализации до меню командной строки, встроенного в сайт. Однако они "спрятаны" в боковых панелях или доступны только с помощью сочетаний клавиш, чтобы не раздражать начинающих пользователей.
 
-#### API(s)
+#### API
 
-Publishing and making things accessible doesn't only mean making it possible to view something. It also means enabling people to use data to realize their own ideas. Accordingly, all information that is published using the "frontend" of museum-digital is also accessible in a machine-readable way via our JSON API.
+Публикация и обеспечение доступности - это не только возможность просмотра чего-либо. Это также означает предоставление людям возможности использовать данные для реализации своих собственных идей. Соответственно, вся информация, опубликованная с помощью "фронтенда" museum-digital, также доступна в машиночитаемом виде через наш JSON API.
 
-As much as possible, the "frontend" provides information in open standards as well: object information can be accessed in [LIDO](http://www.lido-schema.org/), information about museums can be downloaded as electronic business cards ([vCard](https://de.wikipedia.org/wiki/VCard)), and calendar information such as exhibitions can be integrated with calendar tools using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) standard.
+По мере возможности, "фронтенд" предоставляет информацию и в открытых стандартах: информация об объектах может быть доступна в [LIDO](http://www.lido-schema.org/), информация о музеях может быть загружена в виде электронных визитных карточек ([vCard](https://ru.wikipedia.org/wiki/VCard)), а календарная информация, такая как выставки, может быть интегрирована в календарные инструменты с помощью стандарта [iCalendar](https://en.wikipedia.org/wiki/ICalendar).
 
-{{ highlighted_tile_section(headline = "Open Standards", tiles = [
+{{ highlighted_tile_section(headline = "Открытые стандарты", tiles = [
     [
         'LIDO',
-        'for object metadata',
-        "Based on [CIDOC-CRM](https://www.cidoc-crm.org/), LIDO offers a standardized XML format for exchanging object metadata for museums. Many of the central concepts museum-digital is built on originate from LIDO (such as the event structure for more precisely describing location and dating).",
+        'для метаданных объектов',
+        "Основанный на [CIDOC-CRM] (https://www.cidoc-crm.org/), LIDO предлагает стандартизированный формат XML для обмена метаданными объектов для музеев. Многие из центральных концепций, на которых построен museum-digital, заимствованы из LIDO (например, структура событий для более точного описания местоположения и датировки)",
     ],
     [
         'iCalendar',
-        'for calendar entries',
-        "Calendar entries for events and exhibitions can be downloaded and subscribed to using the [iCalendar](https://de.wikipedia.org/wiki/ICalendar) format and the adjacent WebCal standard. iCalendar is a well-established format that can - among others - be used for importing events to one's mobile calendar.",
+        'для записей календаря',
+        "Календарные записи о событиях и выставках можно загрузить и подписаться на них, используя формат [iCalendar](https://ru.wikipedia.org/wiki/ICalendar) и смежный стандарт WebCal. iCalendar - это хорошо зарекомендовавший себя формат, который, в частности, можно использовать для импорта событий в мобильный календарь.",
     ],
     [
         'vCard',
-        "for institutions' contact information",
-        "What iCalendar is for calendar entries, vCard is for contact information: A very simple and widely adopted standard that can be used for exchanging contact information between practically all of the popular address book managers. museum-digital's frontend implements the interoperable sharing of museums and collections' contact information using vCard.",
+        "для контактной информации учреждений",
+        "Если iCalendar предназначен для записей календаря, то vCard - для контактной информации: Очень простой и широко распространённый стандарт, который может использоваться для обмена контактной информацией практически между всеми популярными менеджерами адресных книг. Фронтенд museum-digital реализует совместимый обмен контактной информацией музеев и собраний с помощью vCard.",
     ],
     [
         'oEmbed',
@@ -145,13 +146,13 @@ As much as possible, the "frontend" provides information in open standards as we
     ],
     [
         'TEI',
-        'for transcriptions',
-        'TEI (Text Encoding Initiative) is a standard for encoding text in a maschine-readable way. At museum-digital, it is natively supported for transcriptions and can be used as an alternative output format for object information focusing on transcriptions and the sending / receiving of letters and similar objects.',
+        'для транскрипций',
+        "TEI (Text Encoding Initiative) - это стандарт для кодирования текста в машиночитаемом виде. В museum-digital он изначально поддерживается для транскрипций и может быть использован как альтернативный формат вывода информации об объектах, ориентированный на транскрипции и отправку/получение писем и подобных объектов.",
     ],
     [
         'IIIF',
-        'for images',
-        '[IIIF](https://iiif.io/) offers a standardized API for referencing images or sections of these. In the standard setup, images are gathered to represent a thing (e.g. a museum object), but these collections can in turn be compiled into superordinate collections. As IIIF requires server-side editing of the images before they are sent to the user, it is only available for locally hosted images. For these however, IIIF version 2.1 is fully implemented.',
+        'для изображений',
+        '[IIIF](https://iiif.io/) предлагает стандартизированный API для ссылок на изображения или их разделы. В стандартной конфигурации изображения собираются для представления какого-либо объекта (например, музейного предмета), но эти собрания, в свою очередь, могут быть собраны в вышестоящие собрания. Поскольку IIIF требует редактирования изображений на стороне сервера перед отправкой пользователю, он доступен только для локально размещенных изображений. Однако для них IIIF версии 2.1 полностью реализован.',
     ],
     [
         'RSS',
@@ -160,25 +161,25 @@ As much as possible, the "frontend" provides information in open standards as we
     ],
     [
         'JSON-LD',
-        'for making information legible to Search Engines',
-        "Google and other search engines can use more detailed [structured data](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data) for generating previews about some commonly appearing types of data - such as events or FAQs. Whereever suitable, the required structured data is provided by the frontend.",
+        'для придания информации удобочитаемости для поисковых систем',
+        "Google и другие поисковые системы могут использовать более подробные [структурированные данные](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data) для создания предварительных представлений о некоторых часто появляющихся типах данных - таких как события или часто задаваемые вопросы. Везде, где это уместно, необходимые структурированные данные предоставляются фронтендом",
     ]
 ]) }}
 
-#### Development
+#### Разработка
 
-The "frontend" of museum-digital is built using PHP8 and MySQL. JavaScript is used for interactive features and visualizations. A list of the used libraries can be found here. We use git for version control.
+"Фронтенд" museum-digital построен с использованием PHP8 и MySQL. JavaScript используется для интерактивных функций и визуализации. Список используемых библиотек можно найти здесь. Для контроля версий мы используем git. 
 
 ----
 
 {% counter_section_left(api = "md_frontend_system", name = "languages") %}
-The frontend is build for multi-lingual use and has been translated to a number of languages. Of course, we are always looking forward to help in translating the frontend (just like all other tools at museum-digital) to new languages. A description of how our dedicated translation tool can be used for doing so is [available on the blog (German)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
+Фронтенд создан для многоязычного использования и уже переведен на несколько языков. Конечно, мы всегда рады помощи в переводе фронтенда (как и всех других инструментов museum-digital) на новые языки. Описание того, как можно использовать для этого наш специальный инструмент перевода, можно найти [доступно в блоге (на немецком языке)](https://blog.museum-digital.org/de/2019/03/02/museum-digital-uebersetzen/).
 {% end %}
 
 ----
 
 {% counter_section_right_plain_number(api = "md_global_stats", selector = "museums", name = "institutions") %}
-Many museums come together to use museum-digital as a publication platform - and thus come to present their objects using the frontend.
+Многие музеи объединяются, чтобы использовать museum-digital в качестве платформы для публикаций - и таким образом представляют свои объекты с помощью фронтенда.
 {% end %}
 
 ----
@@ -193,14 +194,14 @@ Many museums come together to use museum-digital as a publication platform - and
 
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Ausgabe/",
     image="/data/img/logos-ext/mdBook.svg",
-    image_alt="") %}Handbook pages (German){% end %}
+    image_alt="") %}Страницы справочника (на немецком языке){% end %}
 
 {% museumdigital_linktiles_tile(link="https://nat.museum-digital.de/index.php?t=text&st=api",
     image="/data/img/icons/more.svg",
-    image_alt="") %}Short introduction to the API{% end %}
+    image_alt="") %}Краткое введение в API{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/frontend/feed/",
     html_url="https://blog.museum-digital.org/category/development/frontend/",
-    title="News About the Frontend in the Blog") }}
+    title="Новости о фронтенде в блоге") }}

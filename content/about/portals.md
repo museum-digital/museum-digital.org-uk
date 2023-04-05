@@ -1,57 +1,57 @@
 +++
-title = "Portals"
-description = "museum-digital is represented on different, regional portals. Here is a list of them."
+title = "Порталы"
+description = "museum-digital представлен различными региональными порталами. Вот их список."
 
 [extra]
-keywords = "Museum-digital, Portals, Museum Objects, Access"
+keywords = "museum-digital, порталы, музейные предметы, доступ"
 banner_image = "/data/img/banners/Banff-National-Park_Government-Bath-House-Banff-Canadian-Rockies.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 226 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "portals"
 +++
 
-## The different portals of museum-digital
+## Различные порталы museum-digital
 
-Museum-digital is composed of different portals. Most of them are regionally structured.
+Museum-digital состоит из различных порталов. Большинство из них имеют региональную структуру.
 
-### International Portals
+### Международные порталы
 
 <div class="iconList">
 
 {% icon_list_entry(image="/data/img/logo/mdlogo-code-128px.png",
     image_alt="Logo",
-    link="https://global.museum-digital.org/") %}Worldwide{% end %}
+    link="https://global.museum-digital.org/") %}Мир{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/nat.png",
     image_alt="Logo",
-    link="https://nat.museum-digital.de/") %}Germany{% end %}
+    link="https://nat.museum-digital.de/") %}Германия{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/hu.png",
     image_alt="Logo",
-    link="https://hu.museum-digital.org/") %}Hungary{% end %}
+    link="https://hu.museum-digital.org/") %}Венгрия{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/br.png",
     image_alt="Logo",
-    link="https://br.museum-digital.org/") %}Brazil{% end %}
+    link="https://br.museum-digital.org/") %}Бразилия{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://id.museum-digital.org/") %}Indonesia{% end %}
+    link="https://id.museum-digital.org/") %}Индонезия{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://at.museum-digital.org/") %}Austria{% end %}
+    link="https://at.museum-digital.org/") %}Австрия{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://ch.museum-digital.org/") %}Switzerland{% end %}
+    link="https://ch.museum-digital.org/") %}Швейцария{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://ua.museum-digital.org/") %}Ukraine{% end %}
+    link="https://ua.museum-digital.org/") %}Украина{% end %}
 
 </div>
 
-### Regional portals in Germany
+### Региональные порталы Германии
 
 <div class="iconList">
 
@@ -133,7 +133,7 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 </div>
 
-### Hungarian Regional Portals
+### Региональные порталы Венгрии
 
 <div class="iconList">
 
@@ -215,85 +215,86 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 </div>
 
-### Regional Portals in Ukraine
+### Региональные порталы Украины
+
+<div class="iconList">
+
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://vinnytsia.ua.museum-digital.org/") %}Вінницька область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://volyn.ua.museum-digital.org/") %}Волинська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://zaporizhzhia.ua.museum-digital.org/") %}Запорізька область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://ivfr.ua.museum-digital.org/") %}Івано-Франківська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://kyiv.ua.museum-digital.org/") %}Київ{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://kyivska.ua.museum-digital.org/") %}Київська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://lviv.ua.museum-digital.org/") %}Львівська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://odesa.ua.museum-digital.org/") %}Одеська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://poltava.ua.museum-digital.org/") %}Полтавська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://rivne.ua.museum-digital.org/") %}Рівненська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://sumy.ua.museum-digital.org/") %}Сумська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://cherkasy.ua.museum-digital.org/") %}Черкаська область{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://chernihiv.ua.museum-digital.org/") %}Чернігівська область{% end %}
+
+</div>
+
+### Региональные порталы Сербии
 
 <div class="iconList">
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://cherkasy.ua.museum-digital.org/") %}Cherkasy Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://chernihiv.ua.museum-digital.org/") %}Chernihiv Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://ivfr.ua.museum-digital.org/") %}Ivano-Frankivsk Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://kyiv.ua.museum-digital.org/") %}Kyiv{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://kyivska.ua.museum-digital.org/") %}Kyiv Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://lviv.ua.museum-digital.org/") %}Lviv Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://odesa.ua.museum-digital.org/") %}Odesa Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://poltava.ua.museum-digital.org/") %}Poltava Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://rivne.ua.museum-digital.org/") %}Rivne Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://sumy.ua.museum-digital.org/") %}Sumy Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://vinnytsia.ua.museum-digital.org/") %}Vinnytsia Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://volyn.ua.museum-digital.org/") %}Volyn Oblast{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://zaporizhzhia.ua.museum-digital.org/") %}Zaporizhzhia Oblast{% end %}
+    link="https://va.srb.museum-digital.org/") %}Србија{% end %}
 
 </div>
 
-### Regional Portals in Serbia
+### Региональные порталы Румынии
 
 <div class="iconList">
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://va.srb.museum-digital.org/") %}Serbia{% end %}
+    link="https://ko.rou.museum-digital.org/") %}Transilvania{% end %}
 
 </div>
 
-### Regional Portals in Romania
-
-<div class="iconList">
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://ko.rou.museum-digital.org/") %}Transylvania{% end %}
-
-</div>
-
-### Regional portals in Switzerland
+### Региональные порталы Швейцарии
 
 <div class="iconList">
 
@@ -303,21 +304,21 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 </div>
 
-### Regional portals in Austria
+### Региональные порталы Австрии
 
 <div class="iconList">
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://noe.at.museum-digital.org/") %}Lower Austria{% end %}
+    link="https://noe.at.museum-digital.org/") %}Niederösterreich{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://wien.at.museum-digital.org/") %}Vienna{% end %}
+    link="https://wien.at.museum-digital.org/") %}Wien{% end %}
 
 </div>
 
-### Regional Portals in the USA
+### Региональные порталы США
 
 <div class="iconList">
 
@@ -331,12 +332,13 @@ Museum-digital is composed of different portals. Most of them are regionally str
 
 </div>
 
-### Aggregated Instances by Topic
+### Сгруппированные по тематике порталы
 
 {% lr_section_image_left(image = "/data/img/logos/groupit.svg", image_alt = "Logo") %}
 #### GroupIt
 
-Museums record their collection information in the above-listed regional portals. The collection data is then synchronized to aggregated instances using a dedicated synchronization tool, _GroupIt_. The primary aggregated instances are then - obviously - the respective national and worldwide instances. We can however also generate topical collection catalogues based on the synchronization of collections, object groups, or the whole institution.
+Музеи размещают информацию о своих собраниях на перечисленных выше региональных порталах. Затем данные о коллекции синхронизируются в сгруппированные по тематике порталы с помощью специального инструмента синхронизации _GroupIt_. Первичными сгруппированными порталами являются, очевидно, соответствующие национальные и международные порталы. Однако мы также можем создавать тематические каталоги собраний на основе синхронизации собраний, групп объектов или всего учреждения.
+
 {% end %}
 
 <div class="iconList">
@@ -351,25 +353,25 @@ Museums record their collection information in the above-listed regional portals
 
 </div>
 
-## Themator: Topical Portals
+## Тематор: Тематические порталы
 
-The [Themator](/software/themator) is a tool we developed to enable museums and like-minded people to create digital exhibitions and - more generally - to easily engage in digital storytelling. As the Themator was previously largely monolingual, we have set up different instances of it.
+[Тематор](/software/themator) это инструмент, который мы разработали чтобы дать возможность музеям и единомышленникам создавать цифровые выставки и, в более широком смысле, свободно заниматься цифровым повествованием. Поскольку тематор ранее был в основном одноязычным, для него мы также создали различные версии.
 
 {{ museumdigital_linktiles_list_start() }}
 
 {% museumdigital_linktiles_tile(link="https://themator.museum-digital.de/",image="data/img/logos/themator-128.png",image_alt="Logo") %}
-Themator in German
+Тематор на немецком языке
 {% end %}
 
 {% museumdigital_linktiles_tile(link="https://hu-themator.museum-digital.org/",image="data/img/logos/themator-128.png",image_alt="Logo") %}
-Themator in Hungarian
+Тематор на венгерском языке
 {% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
-## md:term: The controlled vocabularies of museum-digital made accessible
+## md:term: Контролируемые словари museum-digital стали доступными
 
-Around 2010, we started to use controlled vocabularies to facilitate the common tagging and interlinking of digitized objects. For a long time, these vocabularies were not accessible for any outside viewers. Since they may be a useful resource to some, we have since developed [md:term](/software/term-nodac) as a public and hopefully easily accessible portal for our (and some other) controlled vocabularies.
+Примерно в 2010 году мы начали использовать контролируемые словари, чтобы облегчить общую маркировку и взаимосвязь оцифрованных объектов. Долгое время эти словари были недоступны для посторонних глаз. Поскольку для некоторых они могут оказаться полезным ресурсом, мы разработали [md:term](/software/term-nodac) как открытый и, надеемся, легко доступный портал для наших (и некоторых других) контролируемых словарей.
 
 {{ museumdigital_linktiles_list_start() }}
 

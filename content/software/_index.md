@@ -1,23 +1,23 @@
 +++
-title = "Software"
-description = "At museum-digital, we have developed a set of software solutions to aid different parts of museum (digitization) work."
+title = "Программное обеспечение"
+description = "В museum-digital мы разработали набор программных решений для помощи в различных частях музейной работы (по дигитализации)."
 
 [extra]
-keywords = "Software, Museums, Museum Objects, Museum Software, museum-digital"
+keywords = "программное обеспечение, музеи, музейные предметы, музейное программное обеспечение, museum-digital"
 banner_image = "/data/img/banners/RetrofuturismPostersNASA/grand_tour.jpg"
 banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "software"
 +++
 
-## Software
+## Программное обеспечение
 
-At museum-digital, we have developed a set of software solutions to facilitate an easy and inclusive process of digitization in museums. Originally, museum-digital was founded to publish object information online. We thus began by developing a [public interface for viewing object information](/software/frontend).
+В museum-digital мы разработали набор программных решений для упрощения процесса дигитализации в музеях. Изначально museum-digital был основан для публикации информации об объектах онлайн. Поэтому мы начали с разработки [внешнего интерфейса для отображения информации об объектах.](/software/frontend).
 
-Since the original method of data input - the museums entered their data into their local database, sent it to the programmers, the programmers entered it to museum-digital - did not scale well, we then developed a simple online input interface, [musdb](/software/musdb). Some museums, that did not yet have a dedicated database for inventorized data, but knew musdb well, began to ask additional inventory functionalities. And thus the approach of musdb changed: instead of being an input interface to a publication platform, it turned into an inventory tool with the option to publish.
+Поскольку первоначальный метод ввода данных - музеи вводили свои данные в локальную базу данных, отправляли их программистам, а те вводили их в museum-digital - не очень хорошо масштабировался, мы разработали простой онлайн-интерфейс ввода, - [musdb](/software/musdb). Некоторые музеи, у которых еще не было специальной базы данных для инвентаризации, но которые хорошо знали musdb, начали просить дополнительные функции инвентаризации. Таким образом, подход musdb изменился: вместо того, чтобы быть интерфейсом ввода данных и платформой для публикаций, он превратился в инструмент инвентаризации с возможностью публикации.
 
-Soon after, requests for options to more thoroughly present digital narratives and stories became more frequent. While museum objects may be interesting by themselves, it is also a central task of museums to contextualize them. As a reaction to these requests, we created the [Themator](/software/themator) as an independent tool for writing and publishing stories online.
+Вскоре после этого участились запросы на опции для более детального отображения цифровых повествований и историй. Хотя музейные объекты могут быть интересны сами по себе, их контекстуализация также является важной задачей музеев. В ответ на эти запросы мы создали [тематор](/software/themator) как независимый инструмент для составления и публикации историй онлайн.
 
-Early on, when developing the main frontend and musdb, we decided to use controlled vocabularies for all databases of a given language. Internally, we use our "norm data control tool" [nodac](/software/term-nodac) for curating these. Since the vocabularies have grown considerably since, and have become a useful resource on their own by now, we have also developed a searchable frontend for these, [md:term](/software/term).
+На раннем этапе, при разработке основного внешнего интерфейса и musdb, мы решили использовать контролируемые словари для всех баз данных конкретного языка. Внутри сайта мы используем наш "инструмент контроля нормативных данных" [nodac](/software/term-nodac) для их курирования. Поскольку словари с тех пор значительно расширились и к настоящему времени стали самостоятельным полезным ресурсом, мы также разработали фронтенд для их поиска, [md:term](/software/term).
 
 ----
 
@@ -25,7 +25,7 @@ Early on, when developing the main frontend and musdb, we decided to use control
 
 {% museumdigital_linktiles_tile(link="/software/frontend",
     image="/data/img/logo/mdlogo-code-128px.png",
-    image_alt="Logo") %}Frontend/Portals{% end %}
+    image_alt="Logo") %}Внешний интерфейс/порталы{% end %}
 
 {% museumdigital_linktiles_tile(link="/software/musdb",
     image="/data/img/logo-musdb/musdbLogoBrown-128.png",
@@ -41,7 +41,7 @@ Early on, when developing the main frontend and musdb, we decided to use control
 
 {% museumdigital_linktiles_tile(link="/software/themator",
     image="/data/img/logos/themator-128.png",
-    image_alt="Logo") %}Themator{% end %}
+    image_alt="Logo") %}Тематор{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
@@ -49,4 +49,4 @@ Early on, when developing the main frontend and musdb, we decided to use control
 
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/feed/",
     html_url="https://blog.museum-digital.org/category/development/",
-    title="Tech-Related News in our Blog") }}
+    title="Новости технического характера в нашем блоге") }}

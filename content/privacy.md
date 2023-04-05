@@ -1,56 +1,56 @@
 +++
-title = "Privacy Policy"
-description = "Privacy policy of museum-digital.org"
+title = "Политика конфиденциальности"
+description = "Политика конфиденциальности портала museum-digital.org"
 
 [extra]
-keywords = "Privacy Policy, Privacy, museum-digital.org"
+keywords = "Политика конфиденциальности, Конфиденциальность, museum-digital.org"
 banner_image = "/data/img/banners/cat.jpg"
 html_id = "privacy"
 +++
 
-## Privacy Policy
+## Политика конфиденциальности
 
-### Declaration of the Protection of Personal Data
+### Декларация о защите персональных данных
 
-In accordance with the General Data Protection Regulation, we are obliged to inform the website visitor at the beginning of their usage of this site about the nature, scope, and purpose of the collection and use of personal data. In this privacy statement you will learn which data we collect, for what purposes we collect the data, and what happens to the data collected. Since this is important, you should take the time to read this privacy policy carefully.
+В соответствии с Общим положением о защите данных мы обязаны в начале пользования сайтом информировать посетителей сайта о характере, объеме и целях сбора и использования персональных данных. В этом заявлении о конфиденциальности вы узнаете, какие данные мы собираем, для каких целей мы собираем эти данные и что происходит с собранными данными. Поскольку это важно, вам следует найти время, чтобы внимательно прочитать это положение о конфиденциальности.
 
-### Purpose of Collecting, Processing, or Using Your Data
+### Цель сбора, обработки или использования ваших данных
 
-We need your data:
+Нам нужны ваши данные:
 
-1. To optimize our offerings.
+1. Для оптимизации наших предложений.
 
-We only collect your data when necessary. Your information will not be given to third parties for market or opinion research.
+Мы собираем ваши данные только в случае необходимости. Ваша информация не будет передана третьим лицам для изучения рынка или мнений.
 
-### Data Usage and Voluntariness of Consent
+### Использование данных и добровольное согласие
 
-All personal identifiable information you submit to us will only be used for the purpose for which you consented to provide us with. If this purpose is omitted, the data will be deleted. You can visit our website without us collecting personal information. However, we require your personal data if you would like to contact us, e.g. by a request. This then also establishes the legal basis for the use of data so that we can meet our rights and obligations arising from the business relationship with you, in accordance with § 28 Abs.1 BDSG.
+Вся персональная идентифицирующая информация, которую вы предоставляете нам, будет использоваться только в тех целях, для которых вы дали согласие на ее предоставление. Если эта цель отсутствует, данные будут удалены. Вы можете посещать наш сайт без сбора нами личной информации. Однако мы требуем ваши личные данные, если вы хотите связаться с нами, например, с помощью запроса. В этом случае также устанавливается правовая основа для использования данных, чтобы мы могли выполнять наши права и обязанности, вытекающие из деловых отношений с вами, в соответствии с § 28 Abs.1 BDSG.
 
-Your personal data sent to us via our website will be collected, processed or used only in accordance with the statutory provisions. Your consent is made at your own discretion and without compulsion and is revocable at any time.
+Ваши личные данные, отправленные нам через наш сайт, будут собираться, обрабатываться или использоваться только в соответствии с установленными законом положениями. Ваше согласие дается по собственному усмотрению, без принуждения и может быть отозвано в любое время.
 
-### Collection of General Data and Information
+### Сбор общих сведений и информации
 
-The server of museum-digital collects a series of general data and information in the logfiles every time it is called up. To be collected:
+Сервер museum-digital собирает ряд общих данных и информацию в лог-файлы при каждом обращении к нему. Собираются:
 
-- the browser used by the individual,
-- the operating system used by the individual,
-- the website from which the caller came to our website,
-- the sub-web pages, which are selected by the caller on our website,
-- the date and time of visit,
-- an Internet-Protocol Address (IP Address),
-- the internet service provider of the individual and
-- other similar data and information that serve security purposes in case of attacks on museum-digital.de.
+- браузер, используемый пользователем,
+- операционная система, используемая пользователем,
+- веб-сайт, с которого абонент перешел на наш сайт,
+- вложенные веб-страницы, выбранные абонентом на нашем сайте,
+- дата и время посещения,
+- адрес интернет-протокола (IP-адрес),
+- интернет-провайдер физического лица и
+- другие подобные данные и информация, которые служат целям безопасности в случае атак на museum-digital.de.
 
-When using this general data and information, museum-digital does not draw any conclusions about the person concerned. This anonymously collected data and information are statistically evaluated by museum-digital. The anonymous data of the server log files are stored separately from any personal data that may be provided by an affected person.
+Используя эти общие данные и информацию, museum-digital не делает никаких выводов о заинтересованном лице. Эти анонимно собранные данные и информация подвергаются museum-digital статистической оценке. Анонимные данные файлов журнала сервера хранятся отдельно от любых личных данных, которые могут быть предоставлены заинтересованным лицом.
 
-### Use of Cookies
+### Использование файлов cookie
 
-In order to make our website user-friendly and to optimally match your needs we use cookies in some areas. A cookie is a small file that is stored locally on your computer as soon as you visit a website. Your browser offers a feature to delete cookies (for example, delete via browser data). Further information can be found in the operating instructions or usually under Settings of your Internet browser. Specifically, the following is stored with each access:
+Для того чтобы сделать наш сайт удобным для пользователей и оптимально соответствовать вашим потребностям, в некоторых разделах мы используем файлы cookie. Cookie - это небольшой файл, который сохраняется локально на вашем компьютере, как только вы посещаете веб-сайт. В вашем браузере имеется функция удаления файлов cookie (например, удаление через данные браузера). Дополнительную информацию можно найти в инструкции по эксплуатации или обычно в разделе "Настройки" вашего интернет-браузера. В частности, при каждом посещении сохраняется следующее:
 
-- Saving the opt-out from Matomo (see below)
+- Сохранение opt-out файлов от Matomo (см. ниже)
 
-### Tracking (Matomo)
+### Отслеживание (Matomo)
 
-On this website, using the web analysis service software Matomo (www.matomo.org), a service of the provider InnoCraft Ltd., 150 Willis St, 6011 Wellington, New Zealand, ("Mataomo") based on our legitimate interest in the statistical analysis of user behavior for optimization and marketing purposes in accordance with Art. 6 para. 1 lit. f DSGVO data collected and stored. From this data, pseudonymised usage profiles can be created and evaluated for the same purpose. The data collected using Matomo technology (including your anonymous IP address) will be processed on our servers. The information generated in the pseudonymous user profile is not used to personally identify the visitor to this website and is not merged with personal data about the bearer of the pseudonym. If you do not agree with the storage and evaluation of this data from your visit, then you can object to the storage and use at any time by clicking the mouse. In this case, a so-called opt-out cookie is stored in your browser, with the result that Matomo does not collect any session data. Please note that the complete deletion of your cookies means that the opt-out cookie is also deleted and may need to be reactivated by you. Disabling Matomo tracking can be achieved by setting your browser's Do-Not-Track setting.
+На данном сайте, используя программное обеспечение для веб-анализа Matomo (www.matomo.org), услугу провайдера InnoCraft Ltd., 150 Willis St, 6011 Wellington, New Zealand, ("Mataomo") на основании нашего законного интереса в статистическом анализе поведения пользователей для оптимизации и маркетинговых целей в соответствии со ст. 6 para. 1 лит. f DSGVO данные собираются и хранятся. На основе этих данных могут быть созданы и оценены псевдонимизированные профили использования с той же целью. Данные, собранные с помощью технологии Matomo (включая ваш анонимный IP-адрес), будут обрабатываться на наших серверах. Информация, созданная в псевдонимизированном профиле пользователя, не используется для персональной идентификации посетителя этого сайта и не объединяется с личными данными о носителе псевдонима. Если вы не согласны с хранением и оценкой этих данных, полученных в результате вашего посещения, то вы можете в любой момент возразить против их хранения и использования простым кликом мыши. В этом случае в вашем браузере будет сохранен так называемый файл cookie opt-out, в результате чего Matomo не будет собирать данные о посещениях. Обратите внимание, что полное удаление ваших файлов cookie означает, что файл cookie opt-out также удаляется и может потребоваться его повторная активация с вашей стороны. Отключение отслеживания Matomo может быть достигнуто путем установки параметра Do-Not-Track в вашем браузере.
 
 <iframe style="" src="https://museum-digital.jrenslin.de/piwik/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en&amp;backgroundColor=&amp;fontColor=&amp;fontSize=1.2em&amp;fontFamily=Arial" ugndcxsn0=""></iframe>

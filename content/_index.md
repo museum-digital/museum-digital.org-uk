@@ -1,10 +1,10 @@
 +++
 title = "museum-digital"
-description = "Start page of museum-digital's project page"
+description = "Стартовая страница страницы проекта museum-digital"
 template = "startpage.html"
 
 [extra]
-keywords = "Museums, Digitization, Community, Research"
+keywords = "музеи, дигитализация, сообщество, исследования"
 banner_image = "/data/img/zalfa-imani-1xp5VxvyKL0-unsplash.jpg"
 banner_image_alt = "Zalfa Imani, December 1, 2020, Unsplash License, https://unsplash.com/photos/1xp5VxvyKL0"
 page_banner = [
@@ -12,18 +12,18 @@ page_banner = [
         "/data/img/zalfa-imani-1xp5VxvyKL0-unsplash.jpg",
         "",
         "museum-digital:global",
-        "museum-digital helps museums bring their collections online. All published objects can be found at museum-digital:global.",
+        "museum-digital помогает музеям представить свои собрания онлайн. Все опубликованные объекты можно найти на сайте museum-digital:global.",
         [
             "https://global.museum-digital.org/search.php",
             "sv",
-            "Browse the collections"
+            "Поиск по собраниям"
         ]
     ],
     [
         "/data/img/banners/cat.jpg",
         "",
-        "Digital Storytelling",
-        "Using the <a href='/software/themator/'>Themator</a>, museums can publish their narratives digitally both in a more traditional 'portal' form as well as a scrollytelling format",
+        "Цифровое повествование",
+        "Используя <a href='/software/themator/'>тематор</a>, музеи могут опубликовывать свои истории в цифровом виде как в более традиционной форме \"портала\", так и в формате скроллиттинга",
     ]
 ]
 html_id = "home"
@@ -31,7 +31,7 @@ html_id = "home"
 
 ## museum-digital
 
-museum-digital это инициатива, it is a software suite, and it is a platform. In January 2009, museum workers from the German state of Saxony-Anhalt gathered at the Kreismuseum Bitterfeld to discuss digitization and agreed to go online together. This was the founding event of museum-digital. Even then it was clear: Going online and becoming visible can only be achieved together. Together, software was developed; together, the museums present themselves and their objects online. What started as a small group in Saxony-Anhalt has now grown into a community that transcends national and language borders.
+museum-digital - это инициатива, программное обеспечение и платформа. В январе 2009 года сотрудники музеев из федеральной земли Саксония-Анхальт собрались в Биттерфельдском музее (Kreismuseum Bitterfeld), чтобы вместе приступить к процессу дигитализации и представить свои собрания онлайн. Это положило начало созданию museum-digital. Уже тогда было ясно: стать видимым онлайн можно прежде всего совместными усилиями. Совместно было разработано программное обеспечение; совместно музеи представили себя и свои объекты в интернете. То, что начиналось с небольшой инициативы в Саксонии-Анхальт, сегодня выросло в сообщество, не знающее национальных и языковых границ.
 
 ----
 
@@ -39,22 +39,22 @@ museum-digital это инициатива, it is a software suite, and it is a 
 
 ----
 
-### Collaboration and Mutual Aid
+### Сотрудничество и взаимопомощь
 
-Every museum has its possibilities and aims. At museum-digital, they work together. In contrast to other portals, museum-digital offers tools both for [publishing](/software/frontend) and [indexing object information](/software/musdb). All museums of the instances using a common primary language are using a shared pool of controlled and enriched terms. Working on a centralized pool of controlled vocabularies saves each museum a lot of time and helps to visualize links between information from the different museums. It is thus a central part of successfully publishing online.
+У каждого музея свои возможности и цели. В museum-digital музеи работают вместе. В отличие от других порталов, museum-digital предлагает инструменты как для [публикации](/software/frontend), так и для [инвентаризации сведений о предметах](/software/musdb). Все музеи используют общий базовый интерфейс, общий свод контролируемых и дополненных определений. Работа над централизованным сводом контролируемых словарей значительно экономит время каждого музея и помогает визуализировать связи между информацией из разных музеев. А это одна из главных предпосылок успешной онлайн-публикации.
 
-The community is inclusive and open: every museum can participate, as the greatest treasures are often found at far-off places. Being open for museums of all kinds and sizes is only possible by putting flexibility and simplicity first. These, together with giving each museum and user full control over their data are the main principles of museum-digital.
+Музейное сообщество является инклюзивным и открытым: любой музей может присоединиться, а величайшие сокровища часто находятся в отдаленных местах. Быть открытым для музеев всех видов и размеров можно, только отдавая приоритет гибкости и простоте. Именно это, как и предоставление каждому музею и пользователю полного контроля над своими данными, является основным принципом работы museum-digital.
 
 ----
 
-### The Fruit of Common Efforts
+### Плод общих усилий
 
 <br/>
 
 {% lr_section_image_right(image = "/data/img/logo/mdlogo-code-256px.png", image_alt = "Logo") %}
-#### Publishing, from a regional to a global context
+#### Публикация - от регионального до глобального контекста
 
-Museums publish and manage their collection data primarily in regional instances of museum-digital. Published data is however also aggregated in larger instances, such as [museum-digital:global](https://global.museum-digital.org/), that allow searching in all the collections published on museum-digital.
+Музеи публикуют и управляют данными о своих собраниях в региональных версиях museum-digital. Однако опубликованные данные также объединяются в более крупные версии, такие как [museum-digital:global](https://global.museum-digital.org/), оторые позволяют осуществлять поиск во всех собраниях, опубликованных в museum-digital.
 
 <form action="https://global.museum-digital.org/search.php">
     <input type="search" name="sv" placeholder="Browse the collections">
@@ -64,13 +64,14 @@ Museums publish and manage their collection data primarily in regional instances
 <br/>
 
 {% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
-#### Taking load off each other's shoulders
+#### Помогая друг другу
 
-For making such a diverse set of objects - from museums from different countries and recorded using different languages - legible and searchable, controlled vocabularies are an essential tool. At museum-digital we keep centralized vocabularies for different types of entries. If a museum thus has already linked an object to a place, that place is available to all other museums as well. Our controlled vocabularies can be browsed and downloaded at [md:term](https://term.museum-digital.de/).
+Контролируемые словари являются важным инструментом для придания лёгкости и удобства поиска такого разнообразного набора предметов - из музеев разных стран, записанных на разных языках. В museum-digital мы ведем централизованные словари для различных типов данных. Если какой-либо музей уже связал объект с каким-либо местом, то это место доступно и для всех других музеев. Наши контролируемые словари можно просмотреть и скачать в [md:term](https://term.museum-digital.de/).
+
 {% end %}
 
 ----
 
 ## Calendar
 
-{{ calendar_upcoming_events(cal_directory="/about/calendar/", hl_all="Upcoming events", hl_local="Upcoming events in English", feed_all="upcoming_events", feed_local="upcoming_events_local") }}
+{{ calendar_upcoming_events(cal_directory="/about/calendar/", hl_all="Upcoming events", hl_local="Upcoming events in Russian or Ukrainian", feed_all="upcoming_events", feed_local="upcoming_events_local") }}

@@ -1,19 +1,19 @@
 +++
-title = "Mission and Vision"
-description = "museum-digital is a project for the digitization of museum data. Here we declare our mission."
+title = "Миссия и концепция"
+description = "museum-digital - это проект по дигитализации музейных данных. Здесь мы определяем нашу миссию."
 
 [extra]
-keywords = "Museum-digital, Museums, Digitization, Mission Statement, Aims"
+keywords = "museum-digital, музеи, дигитализация, заявление о миссии, цели"
 banner_image = "/data/img/banners/RetrofuturismPostersNASA/ceres.jpg"
 banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "mission"
 +++
 
-## Mission
+## Миссия
 
-Museums and their objects should be online! Museum-digital's aim is to create simple to use tools and an appropriate environment for this. Museums that use a different software for inventory can use museum-digital for publishing their data. For all other museums that may not yet have a dedicated inventory tool museum-digital offers appropriate tools.
+Музеи и их объекты должны быть доступны онлайн! Цель museum-digital - создать простые в использовании инструменты и подходящую для этого среду. Музеи, которые используют другое программное обеспечение для инвентаризации, могут использовать museum-digital для публикации своих данных. Для всех остальных музеев, у которых, возможно, еще нет специального программного обеспечения для инвентаризации, museum-digital предлагает соответствующие инструменты.
 
-Museum-digital is a community: all participating museums can join the conversation on what the project should focus on, and how the software is to be developed further. By and by, infrastructure is set up to facilitate and develop the conversation about the digital and museums.
+Museum-digital - это сообщество: все музеи-участники могут присоединиться к обсуждению дальнейших направлений проекта и путей дальнейшего развития программного обеспечения. Инфраструктура создается постепенно, чтобы стимулировать и поддерживать разговор о цифровых технологиях и музеях.
 
-An important principle of museum-digital is to respect existing structures.
+Важным принципом museum-digital является уважение к существующим структурам.
 

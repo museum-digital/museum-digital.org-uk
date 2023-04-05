@@ -1,9 +1,9 @@
 +++
-title = "Dashboard"
-description = "Facts, Figures, Benchmarks on museum-digital and its various instances"
+title = "Панель управления"
+description = "Факты, числа, контрольные показатели museum-digital и региональным версиям"
 
 [extra]
-keywords = "museum-digital, Statistics, Graphs, Museums, Museum Digitization"
+keywords = "museum-digital, статистика, графики, музеи, музейная дигитализация"
 html_id = "dashboard"
 +++
 

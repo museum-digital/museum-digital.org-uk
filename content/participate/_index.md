@@ -1,43 +1,43 @@
 +++
-title = "Participate"
-description = "museum-digital is a community project. Of course, we always welcome volunteers who are ready to help out!"
+title = "Присоединиться"
+description = "museum-digital - это общественный проект. Мы всегда приветствуем волонтёров, готовых оказать помощь!"
 
 [extra]
-keywords = "Museums, Participation, Volunteering, Community"
+keywords = "музеи, участие, волонтёрство, сообщество"
 banner_image = "/data/img/banners/albani.jpg"
 html_id = "participate"
 +++
 
-## Becoming a part of museum-digital
+## Присоединиться к museum-digital
 
-Helping museum-digital is possible in a multitude of ways. Direct participation is mainly reserved for museums, but anybody can help greatly by providing meaningful information and comments.
-
-----
-
-## ... as an Institution
-
-If your institution wants to join museum-digital, you only need a short description, a photo, and the usual contact information of the museum. The museum will then be entered into the appropriate instance of museum-digital and a user account for the museum will be set up. Our tools have shown to be sufficiently intuitive for half an hour of an introduction (via phone) to be sufficient for publishing an object.
-
-Regional museum associations often offer day-long seminars in which working with museum-digital is discussed in more detail. These events usually feature hands-on exercises. It may be fruitful to consult your regional museum association or the administrator of your region of museum-digital.
+Помочь museum-digital можно множеством способов. Прямое участие в работе доступно в первую очередь музеям. Однако все желающие могут внести свой вклад, предоставив значимую информацию и комментарии.
 
 ----
 
-## ... alone or with a group
+## ... как учреждение
 
-You can help museums greatly by providing information and working with the museums. At the bottom of almost all object pages, there is a link "Do you know more ...?". By clicking on this line, you can directly provide e-mail feedback on the given object to the related museum. You may however also offer help to a museum in your area of expertise.
+Если ваше учреждение хочет присоединиться к museum-digital, вам нужно только краткое описание, фотография и обычная контактная информация музея. Затем музей будет внесен в соответствующую версию museum-digital, и для вас будет создана учётная запись пользователя. Инструменты museum-digital интуитивно понятны, и как показывает практика, для начала работы и публикации первого объекта достаточно и получасового разговора по телефону.
+
+Региональные музейные ассоциации часто организуют однодневные семинары, на которых работа с museum-digital обсуждается более подробно. На этих мероприятиях обычно проводятся практические занятия. Возможно, будет полезно проконсультироваться с региональной музейной ассоциацией или администратором museum-digital в вашем регионе.
+
+----
+
+## ... самостоятельно или с группой
+
+Вы можете существенно помочь музеям, предоставляя информацию и работая с ними. Внизу почти всех страниц, посвященных объектам, есть ссылка “Может быть, вы знаете больше...?". Нажав на эту ссылку, вы можете направить обратную связь об этом объекте в соответствующий музей. Вы также можете предложить помощь музею в вашей области знаний.
 
 <br/>
 
 {% lr_section_image_right(image = "/data/img/icons/Language-Icon.svg", image_alt = "Language icon") %}
-#### Translation
+#### Переводы
 
-We hope to make museum-digital available and useful to all people. Not all people speak the same language. All kinds of translations in all languages are highly welcome.
+Мы надеемся сделать museum-digital доступным и удобным для всех желающих. Мы приветствуем переводы на всевозможные языки.
 {% end %}
 
 <br/>
 
 {% lr_section_image_left(image = "/data/img/logos/mdterm-512px.png", image_alt = "Logo") %}
-#### Enriching controlled vocabulary
+#### Обогащение контролируемых словарей
 
-Another way of participation is to join the norm data editors and collaborate with them in managing, enriching and translating the controlled vocabularies of museum-digital.
+Другой способ участия - присоединиться к редакторам нормативных данных и сообща работать над управлением, обогащением и переводом контролируемых словарей museum-digital.
 {% end %}

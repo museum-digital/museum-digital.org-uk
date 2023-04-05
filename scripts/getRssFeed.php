@@ -18,6 +18,12 @@ const FEEDS = [
     'https://blog.museum-digital.org/category/development/development-md-term/feed/',
     'https://blog.museum-digital.org/category/technik-design/externe-tools/feed/',
     'https://blog.museum-digital.org/feed/',
+
+    'https://blog.museum-digital.org/ru/author/adamm/feed/',
+    'https://blog.museum-digital.org/ru/author/andersm/feed/',
+    'https://blog.museum-digital.org/ru/author/jrenslin/feed/',
+    'https://blog.museum-digital.org/ru/author/malygina/feed/',
+    'https://blog.museum-digital.org/ru/author/stefan-rohde-enslin/feed/',
 ];
 
 require __DIR__ . '/../themes/museum-digital-theme-zola/scripts/getRssFeed.php';

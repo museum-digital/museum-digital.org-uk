@@ -1,18 +1,18 @@
 +++
-title = "Contact"
-description = "Get in touch with museum-digital."
+title = "Обратная связь"
+description = "Связаться с museum-digital."
 
 [extra]
-keywords = "Contact, museum-digital"
+keywords = "Обратная связь, museum-digital"
 banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p128_cut.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 128 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "contact"
 +++
 
-## Contact
+## Обратная связь
 
-"museum-digital" is a common undertaking of museums and their associations. You can contact us at:
+"museum-digital" это совместное начинание музеев и их объединений. Вы можете связаться с нами по адресу:
 
 e-Mail: [info@museum-digital.de](mailto:info@museum-digital.de)
 
-For discussion, we have now set up a chat room using the matrix network. You can find it at [#museum-digital:matrix.org](https://matrix.to/#/#museum-digital:matrix.org)
+Для дискуссий мы создали чат, используя матричную сеть. Вы можете найти его по адресу [#museum-digital:matrix.org](https://matrix.to/#/#museum-digital:matrix.org)

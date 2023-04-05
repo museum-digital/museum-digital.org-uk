@@ -1,56 +1,57 @@
 +++
-title = "Infrastructure"
-description = "Infrastructure rundown about museum-digital"
+title = "Инфраструктура"
+description = "Информация об инфраструктуре museum-digital"
 
 [extra]
-keywords = "museum-digital, Infrastructure, Servers"
+keywords = "museum-digital, инфраструктура, сервера"
 banner_image = "/data/img/banners/A-test-of-a-pneumatic-ASH-handling-system_1914_InternetArchive_p216_rotated.jpg"
 banner_image_alt = " Image from page 216 of 'A test of a pneumatic ASH handling system' (1914) "
 html_id = "infrastructure"
 faq = [
     [
-        "Where are museum-digital's servers located?",
-        "Our servers are located in Germany. [digiS](https://www.digis-berlin.de/), the research and competency center for digitization of the State of Berlin, is generously sponsoring and running one of them, while the others are rented at Strato."
+        "Где находятся серверы museum-digital?",
+        "Наши серверы расположены в Германии. Центр исследований и повышения квалификации в области дигитализации земли Берлин [digiS](https://www.digis-berlin.de/) щедро спонсирует и обслуживает один из них. Остальные серверы арендуются в Strato."
     ],
 ]
 +++
 
-## Infrastructure
+## Инфраструктура
 
-All of museum-digital's services are centralized due to our aim of making museums publish and manage their data _together_ and benefit from working together - most notably in the fields of the controlled vocabularies and the simple advantage of making the data from many museums accessible on one site with a common search function. Our work thus necessarily includes running the software we write and administrating the systems on which it runs.
-
-----
-
-### Servers
-
-The hosting and development of museum-digital is currently done using three dedicated servers. One server, hosted by Strato, is used as the main server for both editing data and serving it to the general public. A second server, hosted by digiS in Berlin, is used as the primary server for distributing images and running backups. Finally, the third server, also hosted at Strato, is used for hosting mostly internal tools such as a [Nextcloud](https://nextcloud.com/) and a [Gitea](https://gitea.io/) instance as well as our mail to ensure that only the minimum of dearly required software is run on production servers.
-
-#### Backup strategy
-
-At museum-digital, we principally have three different types of data to back up: Database contents, media files, and configuration files.
-
-Database contents are dumped once a day, GPG encrypted and then synchronized by the backup server. We keep full, encrypted dumps of the last 7 days available and in reach for a quick recovery at any time (both on the primary database server and the backup server). The dumps are further copied into digiS' central backup system once a day.
-
-The backup server is simultaneously used as an image server. To fulfill this function, it automatically synchronizes all media every three to six hours - the synchronization rate is reduced at night in Europe, as there are barely any new files added at night that would warrant the additional use of bandwidth and computing resources. Thus, a second copy of all media files is available at any time. The media files are further included into digiS' centralized backup system once a day, similar to the database dumps.
-
-Finally, configuration files are regularly synchronized into a git repository that is then synchronized to our Gitea instance and onward to members of our admin team.
-
-To add an additional layer of backups, we do monthly snapshots of the full system.
+Мы стремимся к тому, чтобы музеи могли управлять своими данными и публиковать их _совместно_. Так они получают преимущества от совместной работы - как в области контролируемых словарей, так и в их видимости на одном сайте с общей функцией поиска. Поэтому все инструменты museum-digital централизованы. В нашу задачу входит реализация разработанного нами программного обеспечения, а также управление работающими на нём системами.
 
 ----
 
-### Open Source
+### Серверы
 
-We are currently in the process of releasing more and more of our code as open source. Rather content-driven open source projects such as the handbook are available and editable via [GitHub](https://github.com/museum-digital/), while modules used in the main services are hosted on our own Gitea instance.
+
+Хостинг и разработка museum-digital осуществляется с использованием трёх серверов. Один сервер, расположенный в Strato, используется в качестве основного сервера для редактирования данных и предоставления их широкой публике. Второй сервер, размещённый в digiS в Берлине, используется в качестве основного сервера для хранения изображений и резервного копирования. Наконец, третий сервер, также расположенный в Strato, используется для размещения в основном внутренних инструментов, таких как [Nextcloud](https://nextcloud.com/) и [Gitea](https://gitea.io/), а также нашей почты. Это обеспечивает выполнение на промышленных серверах только минимума необходимого дорогостоящего программного обеспечения.
+
+#### Стратегия резервного копирования
+
+В museum-digital есть три типа данных для резервного копирования: содержимое базы данных, медиафайлы и файлы конфигурации.
+
+Содержимое базы данных резервно копируется раз в день, шифруется GPG и затем синхронизируется сервером резервного копирования. Мы храним полные, зашифрованные дампы за последние 7 дней, доступные для быстрого восстановления в любое время (как на основном сервере базы данных, так и на сервере резервного копирования). Раз в день дампы копируются в центральную систему резервного копирования digiS.
+
+Сервер резервного копирования одновременно используется в качестве сервера изображений. Для выполнения этой функции он автоматически синхронизирует все носители каждые три-шесть часов - ночью в Европе частота синхронизации снижается, поскольку ночью практически не добавляются новые файлы, которые могли бы потребовать дополнительного использования пропускной способности и вычислительных ресурсов. Таким образом, вторая копия всех медиафайлов доступна в любое время. Медиафайлы также включаются в централизованную систему резервного копирования digiS раз в день, аналогично дампам баз данных.
+
+Наконец, файлы конфигурации регулярно синхронизируются в git-репозиторий, который затем синхронизируется с нашим экземпляром Gitea и передается членам нашей команды администраторов.
+
+Для создания дополнительного уровня резервного копирования, мы ежемесячно создаём моментальную копию хранимых данных.
+
+----
+
+### Open Source или открытый исходный код
+
+Сейчас мы занимаемся предоставлением всё большей части нашего кода в формате open source. Ориентированные на содержание open-source части, как, например, руководство пользователя, доступны и могут редактироваться через  [GitHub](https://github.com/museum-digital/). При этом модули, используемые в основных сервисах, размещены на нашей собственной странице Gitea.
 
 ----
 
 ### Technology Stack
 
-Our systems run on a rather common technology stack of [Ubuntu](https://ubuntu.com/) for an operation system, [nginx](https://www.nginx.com/) as a web server, [MariaDB](https://mariadb.org/) for a database server and [PHP](https://www.php.net/) as the primary programming language of choice for all server-side code. [Redis](https://redis.io/) and [Manticore](https://manticoresearch.com/) are used as a fast key-value store and a fulltext search server respectively. For server-side development, we use [PHPUnit](https://phpunit.de/) for unit testing, [PHPStan](https://phpstan.org/) for static code analysis and [PHPBench](https://github.com/phpbench/phpbench) for benchmarking given functions.
+Наши системы работают на довольно распространенном технологическом стеке: [Ubuntu](https://ubuntu.com/) для операционной системы, [nginx](https://www.nginx.com/) для веб-сервера, [MariaDB](https://mariadb.org/) для сервера базы данных и [PHP](https://www.php.net/) - в качестве основного языка программирования для всего серверного кода. [Redis](https://redis.io/) и [Manticore](https://manticoresearch.com/) используются соответственно для быстрого хранилища ключей и серверов полнотекстового поиска. Для серверной разработки мы используем [PHPUnit](https://phpunit.de/) для модульного тестирования, [PHPStan](https://phpstan.org/) для статического анализа кода и [PHPBench](https://github.com/phpbench/phpbench) для бенчмаркинга заданных функций.
 
-Some sites that don't require any deeper server-side logic run directly on nginx (the document archive) or are generated using static site generators ([Zola](https://www.getzola.org/) in the case of this very site, [mdbook](https://github.com/rust-lang/mdBook) in the case of the handbook).
+Некоторые сайты, не требующие какой-либо более глубокой серверной логики, работают непосредственно на nginx (архив документов) или генерируются с помощью генераторов статических сайтов ([Zola](https://www.getzola.org/) в случае этого сайта,  [mdbook](https://github.com/rust-lang/mdBook) в случае справочника).
 
 ----
 
-{{ build_faq_list(title = "FAQ") }}
+{{ build_faq_list(title = "Часто задаваемые вопросы") }}

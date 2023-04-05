@@ -1,34 +1,34 @@
 +++
-title = "Imprint"
-description = "Imprint of museum-digital.org"
+title = "Выходные данные"
+description = "Выходные данные museum-digital.org"
 
 [extra]
-keywords = "Imprint, museum-digital, museum-digital.org"
+keywords = "выходные данные, museum-digital, museum-digital.org"
 banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p299.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 299 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "impressum"
 +++
 
-## Imprint
+## Выходные данные
 
-### Inhaber und Kontaktdaten
+### Владелец и контактная информация
 
 Stefan Rohde-Enslin
 Lepsiusstr. 83
 12163 Berlin
 E-Mail: mdorg@museum-digital.de
 
-### Haftungsausschluss
+### Отказ об ответственности
 
-#### Haftung für Links
+#### Ответственность за ссылки
 
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Наш сайт содержит ссылки на внешние сайты третьих лиц, на содержание которых мы не имеем никакого влияния. Поэтому мы не несем никакой ответственности за содержание этих внешних сайтов. Соответствующий поставщик или оператор страниц всегда несет ответственность за содержание страниц, на которые ведут ссылки. При размещении ссылок страницы были проверены на возможные нарушения законодательства. Незаконное содержание не было выявлено во время размещения ссылок. Однако постоянный контроль содержания страниц, на которые даны ссылки, нецелесообразен без конкретных признаков нарушения закона. Если нам станет известно о каких-либо нарушениях закона, мы немедленно удалим такие ссылки.
 
-#### Haftung für Inhalte
+#### Ответственность за содержание
 
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+Содержание наших страниц было создано с максимальной тщательностью. Однако мы не можем взять на себя ответственность за правильность, полноту и актуальность содержания. Как поставщик услуг, мы несем ответственность за собственное содержание на этих страницах в соответствии с общими законами согласно § 7 абз. 1 TMG. Однако, согласно §§ 8-10 TMG, мы как поставщик услуг не обязаны контролировать переданную или сохраненную информацию третьих лиц или расследовать обстоятельства, указывающие на незаконную деятельность. Обязательства по удалению или блокированию использования информации в соответствии с общими законами остаются при этом незатронутыми. Однако ответственность в этом отношении возможна только с того момента, когда становится известно о конкретном нарушении закона. Если нам станет известно о каких-либо подобных нарушениях, мы немедленно удалим соответствующий контент.
 
-#### Rechtswirksamkeit dieses Haftungsausschlusses
+#### Юридическая сила данного отказа от ответственности
 
-Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
+Данный отказ от ответственности должен рассматриваться как часть интернет-публикации, на которую вы перешли по ссылке. Если разделы или отдельные положения данного заявления не являются законными или корректными, содержание или действительность других частей остаются незатронутыми этим фактом.
 

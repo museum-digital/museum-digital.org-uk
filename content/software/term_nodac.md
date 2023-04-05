@@ -1,9 +1,9 @@
 +++
 title = "md:term & nodac "
-description = "At museum-digital we build two tools for managing and displaying controlled vocabularies: md:term and nodac."
+description = "В museum-digital мы создали два инструмента для управления и отображения контролируемых словарей: md:term и nodac"
 
 [extra]
-keywords = "Software, Controlled Vocabularies, Subject Headings"
+keywords = "программное обеспечение, управляемые словари, предметные рубрики"
 banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p235.jpg"
 banner_image_alt = "Image from page 235 of 'Bell telephone magazine' (1922). Internet Archive Book Images, Ident.: belltelephone7273mag00amerrich."
 html_id = "termNodac"
@@ -12,11 +12,11 @@ og_image = "/data/img/logos/mdterm-512px.png"
 
 ## Our Tools for Managing Controlled Vocabularies: nodac and md:term
 
-nodac is the name of our tool for correcting, enriching, and stratifying controlled vocabularies at museum-digital. Nodac is multilingual and can be used for controlling vocabularies in different languages. Using nodac, external vocabularies can be managed as well: for example the Hornbostel-Sachs-Systematik for musical instruments or the Hessische Systematik. The primary use of the tool remains, however, the curation of the museum-digital's own controlled vocabularies. It is the dedicated place for in-depth enrichment of terms from the domains of "actors" (people and institutions), geographic places, times, and tags. These are controlled centrally for a given language by the _norm data editors_. Each participating museum can however submit requests for changes.
+nodac - это название нашего инструмента для корректировки, обогащения и стратификации контролируемых словарей в museum-digital. Nodac является многоязычным и может использоваться для управления словарями на разных языках. С помощью nodac можно управлять и внешними словарями: например, Hornbostel-Sachs-Systematik для музыкальных инструментов или Hessische Systematik. Однако основным использованием этого инструмента остается курирование собственных контролируемых словарей museum-digital. Это специальное место для углубленного обогащения терминов из областей "действующие лица" (люди и учреждения), географические места, время и теги. Они контролируются централизованно для данного языка редакторами _нормативных данных_. Однако каждый музей-участник может подавать запросы на внесение изменений.
 
-While it is the dedicated aim of museum-digital to make entering and linking - for example - a tag as easy as possible for the museums, further edits like providing a definition of the term and linking it with other controlled vocabularies are taken over by the norm data editors. It thus becomes a background task, that does however remain central to the success of the whole endeavor. It is only because we keep curated controlled vocabularies, that we can generate correct timelines or place objects on maps in any meaningful way.
+Хотя целью museum-digital является максимально упростить для музеев введение и связывание, например, тега, дальнейшие правки, такие как предоставление определения термина и связывание его с другими контролируемыми словарями, берут на себя редакторы нормативных данных. Таким образом, это становится фоновой задачей, которая, тем не менее, остается главной для успеха всего начинания. Только благодаря тому, что мы ведем контролируемые словари, мы можем создавать правильные временные шкалы или размещать объекты на картах любым значимым способом.
 
-md:term is the public equivalent of nodac. It provides for public, structured access to our own vocabularies and a number of external ones. Besides making the vocabularies browse-able, it offers [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System) and [JSON](https://de.wikipedia.org/wiki/JavaScript_Object_Notation) interfaces. In this way, it provides access for other developers and projects to creatively use and incorporate our controlled vocabularies.
+md:term - это публичный эквивалент nodac. Он обеспечивает публичный структурированный доступ к нашим собственным словарям и ряду внешних. Помимо возможности просмотра словарей, он предлагает интерфейсы [SKOS](https://ru.wikipedia.org/wiki/SKOS) и [JSON](https://ru.wikipedia.org/wiki/JSON). Таким образом, он предоставляет доступ другим разработчикам и проектам для творческого использования и включения наших контролируемых словарей.
 
 ----
 
@@ -36,4 +36,4 @@ md:term is the public equivalent of nodac. It provides for public, structured ac
 
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
     html_url="https://blog.museum-digital.org/category/development/development-md-term/",
-    title="News") }}
+    title="Новости") }}
