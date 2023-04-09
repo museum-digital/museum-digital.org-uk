@@ -1,17 +1,17 @@
 +++
-title = "Публикации"
-description = "TНа этой странице представлен список публикаций, посвященных museum-digital. "
+title = "Публікації"
+description = "На цій сторінці представлено список публікацій, присвячених museum-digital. "
 
 [extra]
-keywords = "museum-digital, исследования, академия, публикации"
+keywords = "museum-digital, дослідження, академія, публікації"
 banner_image = "/data/img/banners/british_library_hyroglyph.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 518 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "publications"
 +++
 
-## Публикации о museum-digital
+## Публікації про museum-digital
 
-Помимо предоставления инфраструктуры, универсальности и некоммерческого характер, museum-digital приглашает к экспериментированию и предоставляет широкие возможности для исследований. За прошедшие годы был опубликован ряд работ, посвященных museum-digital или основанных на нём. Список этих публикаций приведен ниже.
+Крім надання інфраструктури, універсальності та некомерційного характеру, museum-digital запрошує до експериментування і надає широкі можливості для досліджень. За минулі роки було опубліковано низку робіт, присвячених museum-digital або заснованих на ньому. Список цих публікацій наведено нижче.
 
 - Krause, M. & Hartmann, M. (2022). "museum-digital" für Westfalen-Lippe und OWL: Museumsobjekte im Internet - Initiative, Software-Suite und Plattform. Heimat Westfalen, 6/2022, 18-22.
 - Rohde-Enslin, S. (2020). "Das Innere nach außen kehren? Inventarisieren mit Publikationsanspruch". In _Das digitale Objekt – Zwischen Depot und Internet_. Geipel A., Sauter J. & Hohmann G. (Hrsg). Deutsches Museum Verlag. 25-38. <https://www.deutsches-museum.de/museum/verlag/publikation/das-digitale-objekt>

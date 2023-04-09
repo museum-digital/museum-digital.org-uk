@@ -1,57 +1,57 @@
 +++
-title = "Порталы"
-description = "museum-digital представлен различными региональными порталами. Вот их список."
+title = "Портали"
+description = "museum-digital представлений різними регіональними порталами. Ось їхній список."
 
 [extra]
-keywords = "museum-digital, порталы, музейные предметы, доступ"
+keywords = "museum-digital, портали, музейні предмети, доступ"
 banner_image = "/data/img/banners/Banff-National-Park_Government-Bath-House-Banff-Canadian-Rockies.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 226 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "portals"
 +++
 
-## Различные порталы museum-digital
+## Різні портали museum-digital
 
-Museum-digital состоит из различных порталов. Большинство из них имеют региональную структуру.
+Museum-digital складається з різних порталів. Більшість із них мають регіональну структуру.
 
-### Международные порталы
+### Міжнародні портали
 
 <div class="iconList">
 
 {% icon_list_entry(image="/data/img/logo/mdlogo-code-128px.png",
     image_alt="Logo",
-    link="https://global.museum-digital.org/") %}Мир{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/nat.png",
-    image_alt="Logo",
-    link="https://nat.museum-digital.de/") %}Германия{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/hu.png",
-    image_alt="Logo",
-    link="https://hu.museum-digital.org/") %}Венгрия{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/br.png",
-    image_alt="Logo",
-    link="https://br.museum-digital.org/") %}Бразилия{% end %}
-
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
-    image_alt="Logo",
-    link="https://id.museum-digital.org/") %}Индонезия{% end %}
+    link="https://global.museum-digital.org/") %}Світ{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
     link="https://at.museum-digital.org/") %}Австрия{% end %}
 
-{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+{% icon_list_entry(image="/data/img/regional-logos/br.png",
     image_alt="Logo",
-    link="https://ch.museum-digital.org/") %}Швейцария{% end %}
+    link="https://br.museum-digital.org/") %}Бразилія{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://ua.museum-digital.org/") %}Украина{% end %}
+    link="https://id.museum-digital.org/") %}Індонезія{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/nat.png",
+    image_alt="Logo",
+    link="https://nat.museum-digital.de/") %}Німеччина{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/hu.png",
+    image_alt="Logo",
+    link="https://hu.museum-digital.org/") %}Угорщина{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://ua.museum-digital.org/") %}Україна{% end %}
+
+{% icon_list_entry(image="/data/img/regional-logos/intl.png",
+    image_alt="Logo",
+    link="https://ch.museum-digital.org/") %}Швейцарія{% end %}
 
 </div>
 
-### Региональные порталы Германии
+### Регіональні портали Німеччини
 
 <div class="iconList">
 
@@ -133,7 +133,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Венгрии
+### Регіональні портали Угорщини
 
 <div class="iconList">
 
@@ -215,7 +215,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Украины
+### Регіональні портали України
 
 <div class="iconList">
 
@@ -274,7 +274,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Сербии
+### Регіональні портали Сербії
 
 <div class="iconList">
 
@@ -284,7 +284,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Румынии
+### Регіональні портали Румунії
 
 <div class="iconList">
 
@@ -294,7 +294,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Швейцарии
+### Регіональні портали Швейцарії
 
 <div class="iconList">
 
@@ -304,7 +304,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы Австрии
+### Регіональні портали Австрії
 
 <div class="iconList">
 
@@ -318,7 +318,7 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Региональные порталы США
+### Регіональні портали США
 
 <div class="iconList">
 
@@ -332,12 +332,12 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-### Сгруппированные по тематике порталы
+### Згруповані за тематикою портали
 
 {% lr_section_image_left(image = "/data/img/logos/groupit.svg", image_alt = "Logo") %}
 #### GroupIt
 
-Музеи размещают информацию о своих собраниях на перечисленных выше региональных порталах. Затем данные о коллекции синхронизируются в сгруппированные по тематике порталы с помощью специального инструмента синхронизации _GroupIt_. Первичными сгруппированными порталами являются, очевидно, соответствующие национальные и международные порталы. Однако мы также можем создавать тематические каталоги собраний на основе синхронизации собраний, групп объектов или всего учреждения.
+Музеї розміщують інформацію про свої зібрання на перерахованих вище регіональних порталах. Потім дані про колекції синхронізуються в згруповані за тематикою портали за допомогою спеціального інструменту синхронізації _GroupIt_. Первинними згрупованими порталами є, очевидно, відповідні національні та міжнародні портали. Однак ми також можемо створювати тематичні каталоги зібрань на основі синхронізації зібрань, груп об'єктів або всієї установи.
 
 {% end %}
 
@@ -353,25 +353,25 @@ Museum-digital состоит из различных порталов. Боль
 
 </div>
 
-## Тематор: Тематические порталы
+## Тематор: Тематичні портали
 
-[Тематор](/software/themator) это инструмент, который мы разработали чтобы дать возможность музеям и единомышленникам создавать цифровые выставки и, в более широком смысле, свободно заниматься цифровым повествованием. Поскольку тематор ранее был в основном одноязычным, для него мы также создали различные версии.
+[Тематор](/software/themator) - це інструмент, який ми розробили, щоб дати можливість музеям і однодумцям створювати цифрові виставки та, в ширшому сенсі, вільно займатися цифровою оповіддю. Оскільки тематор раніше був здебільшого одномовним, для нього ми також створили різні версії.
 
 {{ museumdigital_linktiles_list_start() }}
 
 {% museumdigital_linktiles_tile(link="https://themator.museum-digital.de/",image="data/img/logos/themator-128.png",image_alt="Logo") %}
-Тематор на немецком языке
+Тематор німецькою мовою
 {% end %}
 
 {% museumdigital_linktiles_tile(link="https://hu-themator.museum-digital.org/",image="data/img/logos/themator-128.png",image_alt="Logo") %}
-Тематор на венгерском языке
+Тематор угорською мовою
 {% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
-## md:term: Контролируемые словари museum-digital стали доступными
+## md:term: Контрольовані словники museum-digital стали доступними
 
-Примерно в 2010 году мы начали использовать контролируемые словари, чтобы облегчить общую маркировку и взаимосвязь оцифрованных объектов. Долгое время эти словари были недоступны для посторонних глаз. Поскольку для некоторых они могут оказаться полезным ресурсом, мы разработали [md:term](/software/term-nodac) как открытый и, надеемся, легко доступный портал для наших (и некоторых других) контролируемых словарей.
+Приблизно 2010 року ми почали використовувати контрольовані словники, щоб полегшити загальне маркування та взаємозв'язок оцифрованих об'єктів. Довгий час ці словники були недоступні для сторонніх очей. Оскільки для декого вони можуть виявитися корисним ресурсом, ми розробили [md:term](/software/term-nodac) як відкритий і, сподіваємось, легко доступний портал для наших (і деяких інших) контрольованих словників.
 
 {{ museumdigital_linktiles_list_start() }}
 

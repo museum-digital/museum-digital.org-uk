@@ -1,24 +1,24 @@
 +++
-title = "People"
-description = "Who's behind museum-digital? Obviously: People. Some of them are introduced here."
+title = "Люди"
+description = "Хто стоїть за museum-digital? Очевидно: Люди. Деякі з них представлені тут."
 
 [extra]
-keywords = "museum-digital, Menschen, Koordination, Technik"
+keywords = "museum-digital, люди, координація, технології"
 banner_image = "/data/img/banners/RetrofuturismPostersNASA/venus_cut.jpg"
 banner_image_alt = "Courtesy NASA/JPL-Caltech."
 html_id = "people"
 +++
 
-# People
+# Люди
 
-Who's behind museum-digital? Obviously: People. Some of them are introduced here.
+Хто стоїть за museum-digital? Очевидно: Люди. Деякі з них представлені тут.
 
 ---------------------
 
 {{ museumdigital_peopletiles_list_start() }}
 
 {% people_tile(name="Ádám Magyarosi",
-    role="Coordinator in Hungary",
+    role="Координатор в Угорщині",
     mail="magyarosi.adam@gmail.com",
     homepage="https://unideb.academia.edu/ÁdámMagyarosi",
     feed_page="https://blog.museum-digital.org/ru/author/adamm/",
@@ -26,13 +26,13 @@ Who's behind museum-digital? Obviously: People. Some of them are introduced here
     image="/data/img/people/Adam_RightsReserved.jpg",
     image_licence="Rights reserved",
     image_creator="") %}
-Ádám Magyarosi provides support, training and data imports for the users in Hungary.
+Адам Мадьяроші забезпечує підтримку, навчання та імпорт даних для користувачів в Угорщині.
 
-In addition to the museum-digital, he is working on his doctoral dissertation on the history of Hungarian marginal social groups in the 19th and 20th centuries. He is also building geographic information systems using historical sources.
+Крім музею-digital, він працює над докторською дисертацією з історії маргінальних соціальних груп Угорщини в 19 і 20 століттях. Він також займається створенням географічних інформаційних систем з використанням історичних джерел.
 {% end %}
 
 {% people_tile(name="Anne-Katrin Koch",
-    role="Coordinator in Rhineland-Palantine",
+    role="Координаторка в Рейнланд-Пфальці",
     mail="koch@museumsverband-rlp.de",
     homepage="",
     feed_page="",
@@ -40,11 +40,11 @@ In addition to the museum-digital, he is working on his doctoral dissertation on
     image="/data/img/people/Koch_AlleRechteVorbehalten.jpg",
     image_licence="Rights reserved",
     image_creator="") %}
-Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-Palantine, Germany. She is a regional coordinator for museum-digital in that state.
+З липня 2022 року Анне-Катрін Кох працює в Музейній асоціації Рейнланд-Палантин, Німеччина. Вона є регіональною координаторкою з museum-digital у цій землі.
 {% end %}
 
 {{ people_tile(name="Dina Sonntag",
-    role="Coordinator Baden-Württemberg",
+    role="Координаторка в Баден-Вюртемберзі",
     mail="sonntag@landesstelle.de",
     homepage="",
     feed_page="",
@@ -54,7 +54,7 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image_creator="Sebastian Berger") }}
 
 {{ people_tile(name="Ekaterina Malygina",
-    role="Coordinator museum-digital Ukraine",
+    role="Координаторка в Україні",
     mail="ekaterina.l.malygina@museum-digital.de",
     homepage="",
     feed_page="https://blog.museum-digital.org/ru/author/malygina/",
@@ -64,7 +64,7 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image_creator="Ekaterina Malygina") }}
 
 {% people_tile(name="János Bednárik",
-    role="User",
+    role="Пользователь",
     mail="",
     homepage="https://nti.abtk.hu/hu/munkatarsak/tudomanyos-munkatarsak/torteneti-neprajzi-temacsoport/93-bednarik-janos",
     feed_page="",
@@ -72,11 +72,11 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image="/data/img/people/bednárikjános_RightsReserved.jpg",
     image_licence="Rights reserved",
     image_creator="") %}
-    Holding a PhD in anthropology, he now works as as a research fellow and the head of the archive at the Institute of Ethnology, Research Centre for the Humanities (Budapest). As such, he is responsible for managing the institute's collections.
+    Маючи ступінь доктора філософії в галузі антропології, нині він працює науковим співробітником і завідувачем архіву в Інституті етнології Дослідницького центру гуманітарних наук (Будапешт). На цій посаді він відповідає за управління колекціями інституту.
 {% end %}
 
 {% people_tile(name="Joshua Ramon Enslin",
-    role="Programming and Systems Administration",
+    role="Програмування та системне адміністрування",
     mail="joshua@museum-digital.de",
     homepage="https://www.jrenslin.de/",
     feed_page="https://blog.museum-digital.org/ru/author/jrenslin/",
@@ -84,11 +84,11 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image="/data/img/people/JoshuaREnslin.jpg",
     image_licence="CC BY 4.0",
     image_creator="Joshua Ramon Enslin") %}
-    Having studied Southeast Asian Studies, Joshua Ramon Enslin now works as a research associate at the Freies Deutschen Hochstift / Frankfurter Goethe-Museum. He is involved in the programming and systems administration at museum-digital. Furthermore, he is an active member of the museum-digital e.V. (registered association in Germany).
+Джошуа Рамон Енслін, який вивчав Південно-Східну Азію, нині працює науковим співробітником у Вільному німецькому фонді / Франкфуртському музеї Гете. Він займається програмуванням і системним адмініструванням у museum-digital. Крім того, він є активним членом museum-digital e.V. (зареєстрованої асоціації в Німеччині).
 {% end %}
 
 {% people_tile(name="Krisztián Fonyódi",
-    role="Coordinator in Hungary",
+    role="Координатор в Угорщині",
     mail="kfonyodi@gmail.com",
     homepage="",
     feed_page="",
@@ -96,7 +96,7 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image="/data/img/people/Krisztian_RightsReserved.jpg",
     image_licence="Rights reserved",
     image_creator="") %}
-    Krisztián Fonyódi has been leading the Hungarian museum-digital project since 2014. In 2020 he was invited by the Hungarian IT company DotsAmizing Ltd. to develop the software ExhibitOnline, which enables museums to bring previous and current exhibitions to life in a spectacular way and make them available in the digital space in the long term.
+    Кріштіан Фоньоді очолює проєкт museum-digital в Угорщині з 2014 року. 2020 року його запросила угорська IT-компанія DotsAmizing Ltd. для розроблення програмного забезпечення ExhibitOnline, що дає змогу музеям ефектно оживляти попередні й поточні виставки та робити їх доступними в цифровому просторі в довгостроковій перспективі.
 {% end %}
 
 {% people_tile(name="Miriam Anders",
@@ -108,11 +108,11 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image="/data/img/people/MiriamAnders.jpg",
     image_licence="CC BY 4.0",
     image_creator="Miriam Anders") %}
-    Regional administrator for Rhineland-Palantine and general manager of the Museum Association of Rhineland-Palantine, Miriam Anders also serves as the chairman of the museum-digital Deutschland e.V., founded in 2021. The museum association organizes trainings on collections management using museum-digital and serves as a local contact for questions of museums in Rhineland-Palantine.
+    Регіональна адміністраторка Рейнланд-Пфальц і генеральна директорка Музейної асоціації Рейнланд-Пфальца Міріам Андерс також є головою museum-digital Deutschland e.V., заснованої 2021 року. Музейна асоціація організовує тренінги з управління колекціями з використанням museum-digital та слугує місцевою контактною особою з питань музеїв у Рейнланд-Пфальці.
 {% end %}
 
 {% people_tile(name="Stefan Rohde-Enslin",
-    role="Co-Founder",
+    role="Співзасновник",
     mail="s.rohde-enslin@museum-digital.de",
     homepage="",
     feed_page="https://blog.museum-digital.org/ru/author/stefan-rohde-enslin/",
@@ -120,9 +120,10 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     image="/data/img/people/StefanRohdeEnslin.jpg",
     image_licence="CC BY 4.0",
     image_creator="Stefan Rohde-Enslin") %}
-Dr. Stefan Rohde-Enslin has been working on questions of digitization and long-term archival in the museum sector at the Institute for Museum Research of the State Museums of Berlin for nearly 20 years.
+Д-р Штефан Роде-Енслін уже майже 20 років опікується питаннями оцифрування і довгострокового архівування в музейному секторі в Інституті музейних досліджень Державних музеїв Берліна.
 
-Independently of this, he has been involved in the development of museum-digital - in direct collaboration with museums and their associations - since its founding in 2009. He developed the first working iterations of many of museum-digital's tools, but is now mainly concerned with the controlled vocabularies and trainings when it comes to museum-digital.
+Крім цього, він брав участь у розробці проєкту museum-digital - у безпосередній співпраці з музеями та їхніми асоціаціями - з моменту його заснування 2009 року. Він розробив перші робочі ітерації багатьох інструментів museum-digital, але зараз здебільшого займається контрольованими словниками і тренінгами, коли йдеться про museum-digital.
+
 {% end %}
 
 {{ museumdigital_linktiles_list_end() }}

@@ -1,47 +1,47 @@
 +++
 title = "md:term"
-description = "md:term - это браузер словарей, который, в частности, используется для самостоятельного доступа к контролируемым словарям museum-digital."
+description = "md:term - це браузер словників, який, зокрема, використовується для самостійного доступу до контрольованих словників museum-digital."
 
 [extra]
-keywords = "программное обеспечение, управляемые словари, предметные рубрики"
+keywords = "програмне забезпечення, керовані словники, предметні рубрики"
 banner_image = "/data/img/banners/Bell-telephone-magazine-1922-p518.jpg"
 banner_image_alt = "Image from page 518 of 'Bell telephone magazine' (1922). Internet Archive Book Images, Ident.: belltelephone7273mag00amerrich."
 html_id = "termNodac"
 og_image = "/data/img/logos/mdterm-512px.png"
 +++
 
-## md:term - Обозреватель словарей
+## md:term - Оглядач словників
 
-md:term - это менеджер контролируемых словарей. С его помощью можно перемещаться по иерархии ключевых слов и мест, просматривать описание и переводы меток и понятий. Самое главное, что контролируемые словари доступны для поиска и предоставляются в формате, пригодном для машинного чтения, а также в формате, удобном для чтения человеком.
-
-----
-
-### md:term как портал
-
-Эталонная реализация md:term представляет контролируемые словари museum-digital для мест, акторов, тегов и времени, а также некоторые внешние словари, такие как Hornbostel-Sachs-Systematk или Technikthesaurus. Словари, представленные в md:term, можно скачать целиком.
-
-md:term может использоваться независимо от museum-digital в качестве презентационного инструмента для словарей. Однако лучше всего он работает в сочетании с [nodac](/software/nodac).
+md:term - це менеджер контрольованих словників. З його допомогою можна переміщатися по ієрархії ключових слів і місць, переглядати опис і переклади міток і понять. Найголовніше, що контрольовані словники доступні для пошуку та надаються у форматі, придатному для машинного читання, а також у форматі, зручному для читання людиною.
 
 ----
 
-### Скриншоты
+### md:term як портал
+
+Еталонна реалізація md:term представляє контрольовані словники museum-digital для місць, акторів, тегів і часу, а також деякі зовнішні словники, такі як Hornbostel-Sachs-Systematk або Technikthesaurus. Словники, представлені в md:term, можна завантажити цілком.
+
+md:term може використовуватися незалежно від museum-digital як презентаційний інструмент для словників. Однак найкраще він працює в поєднанні з [nodac](/software/nodac).
+
+----
+
+### Скріншоти
 
 {{ museumdigital_preview_list_start() }}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Term/Screenshot_term_place_2.png",
-    image_alt="md:term страница места: Hansaviertel"
-    ) %}Помимо всегда доступных ссылок на машиночитаемые параметры экспорта, базовую информацию и ссылки на хранилища нормативных данных, на страницах мест перечисляются вышестоящие и нижестоящие места и место на карте.{% end %}
+    image_alt="md:term сторінка місця: Hansaviertel"
+    ) %}Крім завжди доступних посилань на машинозчитувані параметри експорту, базову інформацію та посилання на сховища нормативних даних, на сторінках місць перелічуються вищі й нижчі за рівнем місця та місце на карті.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Term/Screenshot_term_tag.png",
-    image_alt="md:term страница тегов"
-) %} Страница тегов будет располагать теги иерархически, ссылаться на другие хранилища нормативных данных, описывать их и предлагать машиночитаемые варианты экспорта. Кроме того, могут быть перечислены объекты из museum-digital.{% end %}
+    image_alt="md:term сторінка тегів"
+) %} Сторінка тегів розташовуватиме теги ієрархічно, посилатиметься на інші сховища нормативних даних, описуватиме їх і пропонуватиме машиночитабельні варіанти експорту. Крім того, можуть бути перераховані об'єкти з museum-digital.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Term/Screenshot_term_downloads.png",
-    image_alt="Страница загрузки md:term"
-    ) %}Полные JSON и SKOS / XML дампы наших контролируемых словарей можно загрузить с помощью страницы загрузки{% end %}
+    image_alt="Сторінка завантаження md:term"
+    ) %}Повні JSON і SKOS / XML дампи наших контрольованих словників можна завантажити за допомогою сторінки завантаження{% end %}
 
 {{ museumdigital_preview_list_end() }}
 
@@ -51,7 +51,7 @@ md:term может использоваться независимо от museum
 
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/md-term/index.html",
     image="/data/img/logos-ext/mdBook.svg",
-    image_alt="Logo") %}Справочник по md:term (на немецком языке){% end %}
+    image_alt="Logo") %}Довідник з md:term (німецькою мовою){% end %}
 
 {% museumdigital_linktiles_tile(link="https://term.museum-digital.de/",
     image="/data/img/logos/mdterm-128px.png",
@@ -63,4 +63,4 @@ md:term может использоваться независимо от museum
 
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
     html_url="https://blog.museum-digital.org/category/development/development-md-term/",
-    title="Новости") }}
+    title="Новини") }}
