@@ -31,7 +31,7 @@ html_id = "participate"
 {% lr_section_image_right(image = "/data/img/icons/Language-Icon.svg", image_alt = "Language icon") %}
 #### Переклади
 
-Ми сподіваємося зробити museum-digital доступним і зручним для всіх охочих. Ми вітаємо переклади всілякими мовами.
+Ми сподіваємося зробити museum-digital доступним і зручним для всіх охочих. Ми вітаємо переклади різними мовами.
 {% end %}
 
 <br/>
