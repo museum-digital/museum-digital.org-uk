@@ -57,6 +57,10 @@ md:term може використовуватися незалежно від mu
     image="/data/img/logos/mdterm-128px.png",
     image_alt="Logo") %}md:term{% end %}
 
+{% museumdigital_linktiles_tile(link="https://term.museum-digital.de/swagger/",
+    image="/data/img/icons/more.svg",
+    image_alt="") %}API-документація{% end %}
+
 {{ museumdigital_linktiles_list_end() }}
 
 ----
