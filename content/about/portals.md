@@ -23,7 +23,7 @@ Museum-digital складається з різних порталів. Біль
 
 {% icon_list_entry(image="/data/img/regional-logos/intl.png",
     image_alt="Logo",
-    link="https://at.museum-digital.org/") %}Австрия{% end %}
+    link="https://at.museum-digital.org/") %}Австрія{% end %}
 
 {% icon_list_entry(image="/data/img/regional-logos/br.png",
     image_alt="Logo",
