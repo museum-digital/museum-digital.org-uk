@@ -10,21 +10,21 @@ declare(strict_types = 1);
 const CACHE_DIR = __DIR__ . '/../cached/fetched_feeds/';
 
 const FEEDS = [
-    'https://blog.museum-digital.org/tag/controlled-vocabularies/feed/',
-    'https://blog.museum-digital.org/category/development/feed/',
-    'https://blog.museum-digital.org/category/development/frontend/feed/',
-    'https://blog.museum-digital.org/category/development/musdb/feed/',
-    'https://blog.museum-digital.org/category/technik-design/themator-de/feed/',
-    'https://blog.museum-digital.org/category/development/development-md-term/feed/',
-    'https://blog.museum-digital.org/category/development/museum-digital-qa/feed/',
-    'https://blog.museum-digital.org/category/technik-design/externe-tools/feed/',
-    'https://blog.museum-digital.org/feed/',
 
-    'https://blog.museum-digital.org/ru/author/adamm/feed/',
-    'https://blog.museum-digital.org/ru/author/andersm/feed/',
-    'https://blog.museum-digital.org/ru/author/jrenslin/feed/',
-    'https://blog.museum-digital.org/ru/author/malygina/feed/',
-    'https://blog.museum-digital.org/ru/author/stefan-rohde-enslin/feed/',
+    'https://blog.museum-digital.org/categories/terminology/atom.xml',
+    'https://blog.museum-digital.org/categories/development/atom.xml',
+    'https://blog.museum-digital.org/categories/frontend/atom.xml',
+    'https://blog.museum-digital.org/categories/musdb/atom.xml',
+    'https://blog.museum-digital.org/categories/themator/atom.xml',
+    'https://blog.museum-digital.org/categories/md-term/atom.xml',
+    'https://blog.museum-digital.org/categories/nodac/atom.xml',
+    'https://blog.museum-digital.org/categories/museum-digital-qa/atom.xml',
+    'https://blog.museum-digital.org/categories/community/atom.xml',
+    'https://blog.museum-digital.org/atom.xml',
+
+    'https://blog.museum-digital.org/uk/authors/jrenslin/atom.xml',
+    'https://blog.museum-digital.org/uk/authors/malygina/atom.xml',
+
 ];
 
 require __DIR__ . '/../themes/museum-digital-theme-zola/scripts/getRssFeed.php';

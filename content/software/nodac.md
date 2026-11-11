@@ -102,6 +102,6 @@ nodac здатен працювати з кількома поліієрархі
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
-    html_url="https://blog.museum-digital.org/category/development/development-md-term/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/nodac/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/nodac/",
     title="Новини") }}

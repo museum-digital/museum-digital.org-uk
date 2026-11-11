@@ -34,6 +34,6 @@ md:term - це публічний еквівалент nodac. Він забез�
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
-    html_url="https://blog.museum-digital.org/category/development/development-md-term/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/md-term/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/md-term/",
     title="Новини") }}

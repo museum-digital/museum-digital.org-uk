@@ -47,7 +47,7 @@ html_id = "terminology"
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/tag/controlled-vocabularies/feed/", html_url="https://blog.museum-digital.org/tag/controlled-vocabularies/", title="Новини") }}
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/terminology/atom.xml", html_url="https://blog.museum-digital.org/categories/terminology/", title="Новини") }}
 
 {{ embed_chartjs() }}
 <script src="/js/dashboard-controlled-vocabs-status.js" type="text/javascript" async></script>

@@ -35,6 +35,6 @@ Museum-digital - це ініціатива музеїв. Вона була ст�
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/feed/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/atom.xml",
     html_url="https://blog.museum-digital.org/",
     title="Новини") }}

@@ -76,6 +76,6 @@ og_image = "/data/img/logos/themator-512.png"
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/technik-design/themator-de/feed/",
-    html_url="https://blog.museum-digital.org/category/technik-design/themator-de/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/themator/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/themator/",
     title="Новини про тематор") }}

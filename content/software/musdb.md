@@ -199,6 +199,6 @@ musdb створений для багатомовного використан�
 
 {{ museumdigital_linktiles_list_end() }}
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/musdb/feed/",
-    html_url="https://blog.museum-digital.org/category/development/musdb/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/musdb/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/musdb/",
     title="Новини про розробку musdb") }}

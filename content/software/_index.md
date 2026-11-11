@@ -47,6 +47,6 @@ html_id = "software"
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/feed/",
-    html_url="https://blog.museum-digital.org/category/development/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/development/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/development/atom.xml",
     title="Новини технічного характеру у нашому блозі") }}

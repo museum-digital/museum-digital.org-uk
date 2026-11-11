@@ -202,6 +202,6 @@ museum-digital був заснований для публікації інфо�
 
 {{ museumdigital_linktiles_list_end() }}
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/frontend/feed/",
-    html_url="https://blog.museum-digital.org/category/development/frontend/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/frontend/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/frontend/",
     title="Новини про фронтенд у блозі") }}
